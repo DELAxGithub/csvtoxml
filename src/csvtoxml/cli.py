@@ -75,9 +75,14 @@ def main() -> int:
                 gap_seconds=args.gap,
             )
         else:
-            # DaVinci Resolve support (to be implemented)
-            print("DaVinci Resolve format not yet implemented", file=sys.stderr)
-            return 1
+            from csvtoxml.writers.davinci import generate_davinci_xml
+
+            generate_davinci_xml(
+                csv_path=args.csv_file,
+                template_xml_path=args.template_xml,
+                output_path=args.output,
+                gap_seconds=args.gap,
+            )
 
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
