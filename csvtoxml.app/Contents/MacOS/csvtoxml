@@ -1,0 +1,15 @@
+#!/bin/bash
+# csvtoxml GUI Launcher
+
+# Get the directory where this app is located
+APP_DIR="$(cd "$(dirname "$0")/../../.." && pwd)"
+
+cd "$APP_DIR"
+
+# Activate virtual environment if exists
+if [ -d ".venv" ]; then
+    source .venv/bin/activate
+fi
+
+# Run the GUI
+python3 csvtoxml_gui.py "$@"
