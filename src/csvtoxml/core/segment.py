@@ -18,6 +18,7 @@ class Segment:
     end_frames: int
     color: Optional[str] = None
     transcript: Optional[str] = None
+    file_name: Optional[str] = None
     raw_rows: List[CsvRow] = field(default_factory=list)
 
     @property
@@ -91,6 +92,7 @@ def build_segments(
                     end_frames=end,
                     color=color,
                     transcript=row.transcript,
+                    file_name=row.file_name,
                     raw_rows=[row],
                 )
             )
@@ -120,6 +122,7 @@ def build_segments(
                 end_frames=out_frames,
                 color=color,
                 transcript=row.transcript,
+                file_name=row.file_name,
                 raw_rows=[row],
             )
         else:
@@ -127,6 +130,9 @@ def build_segments(
             assert current_block is not None
             current_block.end_frames = out_frames
             current_block.raw_rows.append(row)
+            # Use first non-None file_name in block
+            if current_block.file_name is None and row.file_name is not None:
+                current_block.file_name = row.file_name
 
     # Don't forget the last block
     if current_block is not None:
