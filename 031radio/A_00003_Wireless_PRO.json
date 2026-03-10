@@ -1,0 +1,2752 @@
+[
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "00:00-00:02",
+    "text" : "もう手放してるからっていうスタンス なるほど"
+  },
+  {
+    "timestamp" : "00:04-00:07",
+    "text" : "なので なんかいい意味でそこ",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "自己責任の余地をちゃんと分かり合っているというか まあいいこともあれば悪いこともありますけど確かに洗濯機の中に入れなくても",
+    "speaker" : "Speaker 1",
+    "timestamp" : "00:09-00:18"
+  },
+  {
+    "text" : "注意書きはものすごく増えましたね",
+    "speaker" : "Speaker 2",
+    "timestamp" : "00:19-00:21"
+  },
+  {
+    "text" : "ちょっと思います",
+    "timestamp" : "00:21-00:25",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "00:31-00:31",
+    "speaker" : "Speaker 3",
+    "text" : "ありがとうございます"
+  },
+  {
+    "text" : "また洗濯機の話もめちゃめちゃ面白かったので",
+    "timestamp" : "00:33-00:35",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ついに終わってしまいましたが",
+    "timestamp" : "00:36-00:37"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "今日ほぼトークのまとめでもいいかなと思ってたんですけど",
+    "timestamp" : "00:41-00:45"
+  },
+  {
+    "text" : "デザインっていうのが",
+    "timestamp" : "00:48-00:49",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ゆっかりデザインする",
+    "timestamp" : "00:50-00:51"
+  },
+  {
+    "timestamp" : "00:51-00:54",
+    "speaker" : "Speaker 3",
+    "text" : "最初の雪を見ながらでもありましたけど"
+  },
+  {
+    "timestamp" : "00:54-00:58",
+    "text" : "そこまでいくと、なんですかね、デザイン道みたいな感じというか",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "デザイン道",
+    "timestamp" : "00:59-00:59"
+  },
+  {
+    "timestamp" : "00:59-01:03",
+    "speaker" : "Speaker 3",
+    "text" : "呼吸のような感じもする、道、道"
+  },
+  {
+    "text" : "道的な感じがするというか、一方で言語化する、デザインって見えるようにするというか",
+    "timestamp" : "01:03-01:11",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "text" : "こういうことを考えている人がいるからこういう形に落とし込もうみたいな話とか",
+    "timestamp" : "01:13-01:16",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "text" : "ランドスケープも、こんなこともあるかもしれないですけど",
+    "timestamp" : "01:17-01:20",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "text" : "なんかうまく今ないけど見えるようにするというか",
+    "speaker" : "Speaker 3",
+    "timestamp" : "01:20-01:25"
+  },
+  {
+    "text" : "なんでしょうね",
+    "speaker" : "Speaker 3",
+    "timestamp" : "01:26-01:27"
+  },
+  {
+    "timestamp" : "01:28-01:30",
+    "text" : "やっぱり共通理解のためのものというか",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "なんかそんな感じもしたんですが",
+    "timestamp" : "01:32-01:34"
+  },
+  {
+    "text" : "したんですが",
+    "timestamp" : "01:35-01:36",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "すいません話がちょっと抽象的になってきてしまいましたけど",
+    "timestamp" : "01:36-01:39"
+  },
+  {
+    "timestamp" : "01:40-01:45",
+    "speaker" : "Speaker 3",
+    "text" : "なんでもかんでも見えるようにすりゃいいっていうもんでもないのかなっていう方で思うというか"
+  },
+  {
+    "timestamp" : "01:48-01:50",
+    "speaker" : "Speaker 3",
+    "text" : "この辺はどうでしょうか"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "何を言ってるのかごめんわからないんだけど",
+    "timestamp" : "01:50-01:53"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "01:54-01:55",
+    "text" : "質問が難しすぎると"
+  },
+  {
+    "timestamp" : "01:57-01:57",
+    "text" : "そうですね",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "01:58-01:59",
+    "text" : "いやあのね",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "02:01-02:04",
+    "speaker" : "Speaker 2",
+    "text" : "それに対する答えなのかどうか分からないけど"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "でも引き算んだけどな",
+    "timestamp" : "02:05-02:06"
+  },
+  {
+    "timestamp" : "02:06-02:11",
+    "speaker" : "Speaker 2",
+    "text" : "やっぱりこの場にこの空間に入って最初に思ったのは"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:11-02:14",
+    "text" : "すごいなんかこう全体のなんかその"
+  },
+  {
+    "text" : "やっぱりこう",
+    "timestamp" : "02:14-02:16",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "なんていうんだろう",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:18-02:18"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:20-02:22",
+    "text" : "すごいしょうもない言い方だけど"
+  },
+  {
+    "text" : "センスがいいというか",
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:22-02:23"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "要するにその",
+    "timestamp" : "02:24-02:24"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "デザイン",
+    "timestamp" : "02:30-02:31"
+  },
+  {
+    "text" : "デザインされた",
+    "timestamp" : "02:38-02:39",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "空間や物の",
+    "timestamp" : "02:40-02:42",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "02:42-02:43",
+    "text" : "水準を",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "02:44-02:46",
+    "speaker" : "Speaker 2",
+    "text" : "ちゃんと高くしておくということの"
+  },
+  {
+    "timestamp" : "02:48-02:50",
+    "speaker" : "Speaker 2",
+    "text" : "大事だなっていうことですよね"
+  },
+  {
+    "text" : "それには非常なやっぱり",
+    "timestamp" : "02:50-02:52",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "02:53-02:54",
+    "text" : "基礎的な訓練とか"
+  },
+  {
+    "timestamp" : "02:55-02:55",
+    "speaker" : "Speaker 2",
+    "text" : "それから"
+  },
+  {
+    "timestamp" : "02:57-02:58",
+    "speaker" : "Speaker 2",
+    "text" : "デザイナーとしての"
+  },
+  {
+    "timestamp" : "02:59-03:00",
+    "text" : "読解力とかね",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "03:01-03:03",
+    "speaker" : "Speaker 2",
+    "text" : "表現力みたいなものがあって"
+  },
+  {
+    "timestamp" : "03:03-03:04",
+    "speaker" : "Speaker 2",
+    "text" : "それがあるからこそ"
+  },
+  {
+    "text" : "なんかこう",
+    "speaker" : "Speaker 2",
+    "timestamp" : "03:05-03:05"
+  },
+  {
+    "timestamp" : "03:07-03:08",
+    "speaker" : "Speaker 2",
+    "text" : "面白い人を"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "03:09-03:11",
+    "text" : "アーティストとしてきちんと扱えるというか"
+  },
+  {
+    "timestamp" : "03:13-03:16",
+    "speaker" : "Speaker 2",
+    "text" : "そこって実は"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "03:16-03:22",
+    "text" : "多分さっきおっしゃったような何でもかんでも取り入れて"
+  },
+  {
+    "text" : "ルールの幅を広げさえすればいいよねっていうわけではないよねっていうのは",
+    "timestamp" : "03:26-03:30",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ちゃんとデザインされているからだと思いますね",
+    "timestamp" : "03:32-03:34"
+  },
+  {
+    "timestamp" : "03:36-03:36",
+    "speaker" : "Speaker 2",
+    "text" : "そこ重要"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "結構私は引き算が多いですね",
+    "timestamp" : "03:37-03:40"
+  },
+  {
+    "text" : "バーって集めて要素を集めてからこう 引き算引き算していって重要要素は何なんだろうっていうのを",
+    "timestamp" : "03:40-03:49",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "探し出すっていうことを決定するそういう意味では編集能力も読解能力も 必要で",
+    "timestamp" : "03:50-03:59"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "すでに手と頭 のコミュニケーションが行き来してるのがを作っておくというか",
+    "timestamp" : "04:00-04:07"
+  },
+  {
+    "timestamp" : "04:07-04:13",
+    "speaker" : "Speaker 1",
+    "text" : "ずっと頭だけで考えると結構イギリスの美大にいた時は"
+  },
+  {
+    "timestamp" : "04:14-04:17",
+    "text" : "頭でまずコンセプトを固めてから作るみたいな思想だったのが",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "04:17-04:21",
+    "speaker" : "Speaker 1",
+    "text" : "日本に来ても手を動かしながら考えるに変わったんですけど"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "04:21-04:24",
+    "text" : "イギリスの美大でそういう指導をされたんですか"
+  },
+  {
+    "text" : "指導された",
+    "speaker" : "Speaker 1",
+    "timestamp" : "04:24-04:25"
+  },
+  {
+    "timestamp" : "04:26-04:27",
+    "speaker" : "Speaker 1",
+    "text" : "コンセプトはまず"
+  },
+  {
+    "timestamp" : "04:28-04:31",
+    "text" : "そうそうコンセプトね中間発表でコンセプトを発表してみたいな",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "なるほど",
+    "timestamp" : "04:31-04:31"
+  },
+  {
+    "timestamp" : "04:32-04:34",
+    "speaker" : "Speaker 1",
+    "text" : "その後で最終的にそれをどうぞ"
+  },
+  {
+    "timestamp" : "04:34-04:40",
+    "speaker" : "Speaker 1",
+    "text" : "そうそうで意外とねつまんないものができちゃったりするんですよ 今見返すと"
+  },
+  {
+    "timestamp" : "04:43-04:53",
+    "text" : "それも大事なんだけどなんか常にこう交互してさっきも言ったように突拍子もない ところが多って思う瞬間があってそこをうまくつかめるかどうか",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "なるほど あここだっていう",
+    "timestamp" : "04:54-04:55"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "そこってすごい感性と姿勢の間行き来してるから なんか納得いくものになるというか",
+    "timestamp" : "04:57-05:05"
+  },
+  {
+    "timestamp" : "05:06-05:11",
+    "speaker" : "Speaker 2",
+    "text" : "いう感じが なんかそれにこうなんとなくポジティブというか"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ちょっとこうなんかくすっと笑っちゃうみたいな それはある種のユーモアみたいなものが",
+    "timestamp" : "05:12-05:16"
+  },
+  {
+    "text" : "感じられるんだけど あるしあとは自分の中で譲らないルールっていうのを絶対作っておくで渋谷フォントでは",
+    "speaker" : "Speaker 1",
+    "timestamp" : "05:18-05:27"
+  },
+  {
+    "timestamp" : "05:28-05:29",
+    "speaker" : "Speaker 1",
+    "text" : "絶対キュートにしないっていう"
+  },
+  {
+    "timestamp" : "05:32-05:33",
+    "text" : "それはいいことをおっしゃいますね",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "それは障害",
+    "timestamp" : "05:34-05:36",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "05:36-05:38",
+    "text" : "特に知的障害がある方は"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "どうしても可愛く見られちゃうことが多いから",
+    "timestamp" : "05:38-05:42"
+  },
+  {
+    "timestamp" : "05:42-05:45",
+    "speaker" : "Speaker 1",
+    "text" : "そうじゃない部分をもっと引き出したいっていう"
+  },
+  {
+    "text" : "私の個人的な思いもあって",
+    "speaker" : "Speaker 1",
+    "timestamp" : "05:45-05:47"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "なるほど",
+    "timestamp" : "05:48-05:48"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "05:49-05:52",
+    "text" : "キュートは避けようっていうことを"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "05:53-05:55",
+    "text" : "そこはとっても大事ですね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "だからそういうそういう優秀らない部分は絶対作っておかなければいけない そこが判断さっき言ったこれは果たして",
+    "timestamp" : "05:55-06:03"
+  },
+  {
+    "timestamp" : "06:06-06:12",
+    "speaker" : "Speaker 1",
+    "text" : "そのインクルーシブな方向に行ってた入ってないかみたいな軸になる 逆に何か今のインクルーシブデザイン"
+  },
+  {
+    "timestamp" : "06:13-06:18",
+    "text" : "陥りやすいところじゃないですかね キュートにしてしまう",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "言葉とかねみんなでとか全部ひらがなだからね キュートにすることってすごいなんかちょっと",
+    "timestamp" : "06:18-06:27",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "実は力関係",
+    "speaker" : "Speaker 2",
+    "timestamp" : "06:28-06:29"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "まあエモーショナルそのよくエモーショナルケースとビジネスケースって結構 インクルーシブでは言うんですけどそこのバランスをしっかりする",
+    "timestamp" : "06:33-06:42"
+  },
+  {
+    "text" : "エモーショナルに寄りすぎると感情的に",
+    "timestamp" : "06:42-06:45",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これは何の意味を持ってやったかとか",
+    "timestamp" : "06:47-06:49"
+  },
+  {
+    "timestamp" : "06:50-06:53",
+    "text" : "作る人たちにとってどういう思いがあるのかというのが",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "エモーショナルの部分と",
+    "timestamp" : "06:53-06:54",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "でもそこにビジネスケース",
+    "timestamp" : "06:55-06:56",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "06:56-06:58",
+    "text" : "これを生むことによって",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "どんな経済的論理的効果があるかみたいなことを",
+    "timestamp" : "06:58-07:02"
+  },
+  {
+    "timestamp" : "07:02-07:08",
+    "speaker" : "Speaker 1",
+    "text" : "その2つをバランスとってやるというのはすごく大事で"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "07:08-07:10",
+    "text" : "みんなどうしても感情的に"
+  },
+  {
+    "text" : "心を取られちゃう",
+    "speaker" : "Speaker 1",
+    "timestamp" : "07:11-07:12"
+  },
+  {
+    "text" : "どうしてもそんなストーリーを聞いちゃったらね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "07:12-07:14"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "07:16-07:18",
+    "text" : "そうなるけどそこは私はうまくこう"
+  },
+  {
+    "timestamp" : "07:19-07:24",
+    "speaker" : "Speaker 1",
+    "text" : "なるべくロジックも一緒に比例して考えるようにして"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "結構施設の方々にも意地悪なことを言って",
+    "timestamp" : "07:25-07:28"
+  },
+  {
+    "timestamp" : "07:29-07:33",
+    "text" : "自分たちの欲しいものはしっかり言いなさいとか",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "そこは遠慮せずに物事を言ったりとか",
+    "timestamp" : "07:34-07:37"
+  },
+  {
+    "text" : "するようにはしてますね",
+    "timestamp" : "07:38-07:40",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "あとなんかキュートって",
+    "timestamp" : "07:40-07:42",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "07:42-07:43",
+    "text" : "なんていうのかな",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "それをキュートである",
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:44-07:45"
+  },
+  {
+    "timestamp" : "07:46-07:48",
+    "text" : "キュートなものとしてめでる側が",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "なんかこうちょっとやっぱり優位に",
+    "timestamp" : "07:48-07:50",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "立ってしまうっていうか",
+    "timestamp" : "07:50-07:51",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:51-07:53",
+    "text" : "そうなんですよ観客に"
+  },
+  {
+    "text" : "そういうなんかこう",
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:53-07:54"
+  },
+  {
+    "text" : "パワー",
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:54-07:55"
+  },
+  {
+    "text" : "なんていうか",
+    "speaker" : "Speaker 2",
+    "timestamp" : "07:56-07:57"
+  },
+  {
+    "timestamp" : "07:57-07:59",
+    "speaker" : "Speaker 2",
+    "text" : "権力構造みたいなのを生むよね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "07:59-08:01",
+    "text" : "そうなんですよねだからこう"
+  },
+  {
+    "timestamp" : "08:03-08:06",
+    "speaker" : "Speaker 1",
+    "text" : "変にみんな褒めすぎないというか"
+  },
+  {
+    "text" : "もちろん物としては素晴らしいんだけど",
+    "timestamp" : "08:06-08:08",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "障害者がこんなものをやりましたって言うと",
+    "timestamp" : "08:09-08:12",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "08:13-08:16",
+    "speaker" : "Speaker 1",
+    "text" : "全ての障害がある人がこんなことできるんだっていう"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "解釈にもなりかねないし",
+    "timestamp" : "08:17-08:20"
+  },
+  {
+    "text" : "それを見たまだこういうものに関われてなかったり",
+    "timestamp" : "08:20-08:24",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "08:24-08:26",
+    "text" : "やったことのない障害がある人が"
+  },
+  {
+    "text" : "でも自分ってこんなことできないなっていう",
+    "timestamp" : "08:26-08:29",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "劣等感が生み出してしまったりすることもあるから",
+    "timestamp" : "08:29-08:33"
+  },
+  {
+    "text" : "その文脈的な社会的な文脈をしっかり考えてやることの",
+    "timestamp" : "08:33-08:40",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "インクルーシブにおいては特にそこはすごい重要かなって思いますね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "08:40-08:46"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "このプロジェクトやってて",
+    "timestamp" : "08:46-08:47"
+  },
+  {
+    "timestamp" : "08:47-08:53",
+    "text" : "とてもいいお話を聞いた",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "いや面白い",
+    "timestamp" : "08:56-08:57"
+  },
+  {
+    "timestamp" : "08:57-08:58",
+    "speaker" : "Speaker 1",
+    "text" : "私が思っていることをすごい"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "デジャイン教育に活かせるわ俺の",
+    "timestamp" : "08:58-09:01"
+  },
+  {
+    "timestamp" : "09:03-09:08",
+    "text" : "一緒にやりましょう2人で観察の授業をやったら面白いですよね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "09:08-09:09",
+    "text" : "フィールドライクしたいの",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "したいです絶対面白い",
+    "speaker" : "Speaker 1",
+    "timestamp" : "09:09-09:11"
+  },
+  {
+    "text" : "私も母がインクルーシブデザイン日本に持ってきた方なんで",
+    "speaker" : "Speaker 1",
+    "timestamp" : "09:11-09:16"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "常に母と出かけてる時に100m進むのに30分かかるんですよ",
+    "timestamp" : "09:16-09:21"
+  },
+  {
+    "text" : "なんか見つけちゃうからみたいな",
+    "speaker" : "Speaker 1",
+    "timestamp" : "09:22-09:24"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "お母さんとか言いながら",
+    "timestamp" : "09:25-09:27"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "あここ面白いね何気なくこうなっている形が見て感じ",
+    "timestamp" : "09:27-09:31"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "timestamp" : "09:38-09:40",
+    "text" : "いやあの 最後まで確かにも"
+  },
+  {
+    "text" : "ぜひかさんとと 全くどうか",
+    "speaker" : "Speaker 3",
+    "timestamp" : "09:40-09:42"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "面白い話で締めかけていただいて僕のあの 汚い質問を完全に",
+    "timestamp" : "09:43-09:48"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "1回目しておいてというか聞きたかったことをまさに聞いていただいてありがとうございました",
+    "timestamp" : "09:49-09:54"
+  },
+  {
+    "text" : "じゃあこの後はもうあの",
+    "timestamp" : "09:54-09:56",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "まさにこのフィールドワークをですね",
+    "timestamp" : "09:56-09:58"
+  },
+  {
+    "timestamp" : "09:59-10:03",
+    "speaker" : "Speaker 3",
+    "text" : "改めて屋上庭園で軽くしてみてですね"
+  },
+  {
+    "text" : "その間で少しホームページ用の写真をちょっと撮ったりするので",
+    "timestamp" : "10:03-10:07",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "text" : "最後はお二人のフィールドの観察を",
+    "speaker" : "Speaker 3",
+    "timestamp" : "10:08-10:11"
+  },
+  {
+    "text" : "なんか渋谷フォンできます?大丈夫?",
+    "timestamp" : "10:12-10:13",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "聞きたい聞きたい",
+    "speaker" : "Speaker 1",
+    "timestamp" : "10:14-10:16"
+  },
+  {
+    "timestamp" : "10:20-10:21",
+    "speaker" : "Speaker 1",
+    "text" : "なんかやりましょう"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ちょっと飲み物を飲んでもいいですか",
+    "timestamp" : "10:24-10:26"
+  },
+  {
+    "text" : "先生なんか飲みます?",
+    "speaker" : "Speaker 1",
+    "timestamp" : "10:26-10:27"
+  },
+  {
+    "timestamp" : "10:27-10:28",
+    "speaker" : "Speaker 2",
+    "text" : "飲みますんでしょう"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "10:29-10:29",
+    "text" : "はい"
+  },
+  {
+    "text" : "ちょっとお水持ってきますね",
+    "timestamp" : "10:31-10:34",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "10:46-10:46",
+    "speaker" : "Speaker 1",
+    "text" : "こんにちは"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "10:48-10:49",
+    "text" : "こんにちは"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "あ、コーヒーやってるんだね",
+    "timestamp" : "10:49-10:51"
+  },
+  {
+    "timestamp" : "10:52-10:54",
+    "speaker" : "Speaker 1",
+    "text" : "新しいラベルだ"
+  },
+  {
+    "timestamp" : "10:54-10:55",
+    "speaker" : "Speaker 1",
+    "text" : "かっこいい"
+  },
+  {
+    "text" : "かっこいい",
+    "timestamp" : "10:58-10:59",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "これかっこいいね",
+    "timestamp" : "10:59-11:01",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "全部かっこいいけど",
+    "speaker" : "Speaker 1",
+    "timestamp" : "11:03-11:04"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これもかっこいい",
+    "timestamp" : "11:06-11:07"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "11:08-11:09",
+    "text" : "はみ出てるのがいいね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "11:11-11:12",
+    "text" : "さすがみんな"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "全部インパクトあります",
+    "timestamp" : "11:12-11:14"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これもいいね",
+    "timestamp" : "11:15-11:16"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "素晴らしい",
+    "timestamp" : "11:18-11:18"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "徳良さん水ってもないですよね",
+    "timestamp" : "11:45-11:47"
+  },
+  {
+    "text" : "ない?大丈夫?",
+    "timestamp" : "11:48-11:50",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "あっ、でもまあいいや",
+    "timestamp" : "11:51-11:52",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "音が鳴るまでカードをタッチして",
+    "timestamp" : "12:12-12:21"
+  },
+  {
+    "timestamp" : "12:30-12:30",
+    "text" : "いいですよね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "手ぬくいもありますし",
+    "speaker" : "Speaker 1",
+    "timestamp" : "12:32-12:34"
+  },
+  {
+    "timestamp" : "12:36-12:36",
+    "text" : "先生",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "12:37-12:38",
+    "text" : "ありがとうございます",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "12:44-12:46",
+    "text" : "みんな食いつくんですよね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "クライアントさんが使うようによって",
+    "timestamp" : "12:52-12:55"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "また我々の次年度のデザインに活かせるんで",
+    "timestamp" : "12:55-12:59"
+  },
+  {
+    "timestamp" : "13:03-13:06",
+    "speaker" : "Speaker 1",
+    "text" : "あれ職員のみなんですよ渋谷区の"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "写真は後で",
+    "timestamp" : "13:15-13:19"
+  },
+  {
+    "text" : "小野寺兄は今NHK大阪にいるんですか",
+    "timestamp" : "13:51-13:55",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "今は旅行でただ",
+    "timestamp" : "13:55-13:57"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "13:58-14:00",
+    "text" : "旅行で"
+  },
+  {
+    "text" : "旅行でってじゃなくて",
+    "timestamp" : "14:00-14:02",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "timestamp" : "14:03-14:03",
+    "speaker" : "Speaker 3",
+    "text" : "収録ですし"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "ありがとうございます",
+    "timestamp" : "14:05-14:06"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "今日の午前中",
+    "timestamp" : "14:08-14:09"
+  },
+  {
+    "timestamp" : "14:09-14:10",
+    "speaker" : "Speaker 5",
+    "text" : "クラツの課税として"
+  },
+  {
+    "timestamp" : "14:10-14:12",
+    "speaker" : "Speaker 5",
+    "text" : "大阪で収録してて"
+  },
+  {
+    "timestamp" : "14:13-14:13",
+    "speaker" : "Speaker 5",
+    "text" : "そうなんですか"
+  },
+  {
+    "text" : "おっ",
+    "timestamp" : "14:14-14:14",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "timestamp" : "14:25-14:32",
+    "speaker" : "Speaker 1",
+    "text" : "2人があなた方2人が大阪の人 誰が大阪の人を収録"
+  },
+  {
+    "timestamp" : "14:32-14:33",
+    "text" : "ああああああ",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "timestamp" : "14:37-14:39",
+    "speaker" : "Speaker 1",
+    "text" : "あそれもラジオするもこれ同じ番組"
+  },
+  {
+    "text" : "すいません 2段があればぜひシガシガでですね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "14:42-14:48"
+  },
+  {
+    "timestamp" : "14:49-14:53",
+    "speaker" : "Speaker 1",
+    "text" : "海で海の前で あ、琵琶湖海"
+  },
+  {
+    "text" : "絶対面白いよ",
+    "timestamp" : "15:04-15:05",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "出身が宇治なんで あ、そうなんですか?近いですね",
+    "timestamp" : "15:10-15:14",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "私は県境に住んでいて京都と シガノ",
+    "timestamp" : "15:15-15:19"
+  },
+  {
+    "text" : "じゃあぜひ",
+    "timestamp" : "15:20-15:21",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "ニンテンドーミュージアムを両方行って",
+    "speaker" : "Speaker 2",
+    "timestamp" : "15:23-15:25"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "15:26-15:27",
+    "text" : "シガノササイドも行きたい"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "timestamp" : "15:29-15:30",
+    "text" : "いいですね"
+  },
+  {
+    "text" : "この後ちょっとだけ外出て",
+    "timestamp" : "15:31-15:33",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "写真撮影しながら",
+    "timestamp" : "15:35-15:37"
+  },
+  {
+    "timestamp" : "15:38-15:39",
+    "speaker" : "Speaker 3",
+    "text" : "その部分も最後"
+  },
+  {
+    "text" : "今日本当に朝というか",
+    "speaker" : "Speaker 3",
+    "timestamp" : "15:39-15:41"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "timestamp" : "15:42-15:43",
+    "text" : "収録前に見た時と"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "今日1時間お二人で喋って",
+    "timestamp" : "15:43-15:46"
+  },
+  {
+    "timestamp" : "15:48-15:49",
+    "speaker" : "Speaker 3",
+    "text" : "どう見え方が変わるか"
+  },
+  {
+    "text" : "さっき聞きそびれたことでもいいですし",
+    "timestamp" : "15:50-15:53",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "timestamp" : "15:53-15:55",
+    "speaker" : "Speaker 5",
+    "text" : "大平さんが周りの話とかでもいいんですけど"
+  },
+  {
+    "timestamp" : "15:55-15:58",
+    "text" : "ぜひちょっと踏まえた感じで",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "text" : "エンディングを撮りたいなと思いますので",
+    "speaker" : "Speaker 5",
+    "timestamp" : "15:58-16:00"
+  },
+  {
+    "timestamp" : "16:01-16:03",
+    "speaker" : "Speaker 5",
+    "text" : "またちょっと寒いですけど"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "少ししばらくの撮影を終了からよろしくお願いします",
+    "timestamp" : "16:03-16:05"
+  },
+  {
+    "text" : "じゃあ移動します",
+    "speaker" : "Speaker 3",
+    "timestamp" : "16:06-16:07"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:07-16:12",
+    "text" : "ここまで上がりと渋谷川の谷が見えますね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ほんまですか?",
+    "timestamp" : "16:12-16:13"
+  },
+  {
+    "timestamp" : "16:14-16:17",
+    "speaker" : "Speaker 2",
+    "text" : "こうなっている。あそこが一番近い。"
+  },
+  {
+    "text" : "えー、どこですか?",
+    "timestamp" : "16:19-16:20",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "16:23-16:24",
+    "text" : "この道ですか?",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "この道が、その道が突き当たるこれが、低くなっているのが、渋谷川の谷ですね。",
+    "speaker" : "Speaker 2",
+    "timestamp" : "16:25-16:33"
+  },
+  {
+    "timestamp" : "16:33-16:34",
+    "speaker" : "Speaker 2",
+    "text" : "なるほど。"
+  },
+  {
+    "text" : "そこから、青山通りに向かって、こう、伸びて、上がっていくんですよね。",
+    "timestamp" : "16:34-16:41",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "青山通りが 一番高い",
+    "timestamp" : "16:41-16:43"
+  },
+  {
+    "text" : "私の母がよくあの 東京の地名は面白いって言って",
+    "timestamp" : "16:45-16:50",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "16:51-16:55",
+    "text" : "そのお茶の水っていう 美しい水っていう",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "16:56-17:01",
+    "text" : "なんかすごい英訳するとすごい面白い なるほどくなるねっていう話を",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "神楽坂とか。なかなか海外にはない名前。",
+    "timestamp" : "17:03-17:09",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:11-17:15",
+    "text" : "お茶の水も美しい水がなんちゃらって言ってたし、ちょっと覚えてないけど。"
+  },
+  {
+    "timestamp" : "17:16-17:18",
+    "speaker" : "Speaker 1",
+    "text" : "そうやって東京を見ていくと面白いよね。"
+  },
+  {
+    "text" : "私の父も建築やってたので、日本に留学に来た時には都市計画の研究をし、",
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:19-17:26"
+  },
+  {
+    "timestamp" : "17:27-17:35",
+    "speaker" : "Speaker 1",
+    "text" : "に来たか東京中をフィールドワークそうな いつも歩いているとここは収集し"
+  },
+  {
+    "text" : "終身年の時にここよく歩いたがいいんだから",
+    "timestamp" : "17:35-17:39",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "母もあの彫刻できたんですけど 日本があまりにもわからなすぎたから写真に切り替えて写真を撮って撮った写真を分析して",
+    "speaker" : "Speaker 1",
+    "timestamp" : "17:43-17:56"
+  },
+  {
+    "text" : "何だったんだろうって解釈するっていう風にそれ 日本を理解しようとしてたっていうのを聞いてそれは面白いなぁ",
+    "timestamp" : "17:56-18:04",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "何も読めないから当時50年前ですからそっか なるほどとりあえず写真撮って後で分析して自分は何を見たんだろうみたい",
+    "timestamp" : "18:05-18:14"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "面白いですね 面白いフィールドワーク",
+    "timestamp" : "18:15-18:20"
+  },
+  {
+    "text" : "上から人が見れるから好きなんだよね だって絶対見られてないじゃん",
+    "timestamp" : "18:20-18:25",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "あったわかり私たちが見られるんで向こうもなんか見られてると思ってないそうそれがすごい 私好きなんですよね",
+    "timestamp" : "18:26-18:31",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "それがあった なんかやっぱ東京に帰ってくるとみんな",
+    "timestamp" : "18:32-18:37"
+  },
+  {
+    "text" : "頑張らなきゃみたいな感じがすごいみんなからいい 感じてくるというか",
+    "speaker" : "Speaker 1",
+    "timestamp" : "18:38-18:44"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "その人を見れないというか",
+    "timestamp" : "18:45-18:49"
+  },
+  {
+    "text" : "これもマップ",
+    "timestamp" : "18:55-18:56",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "そうですね",
+    "timestamp" : "18:56-18:57"
+  },
+  {
+    "timestamp" : "18:57-18:57",
+    "speaker" : "Speaker 2",
+    "text" : "今"
+  },
+  {
+    "timestamp" : "18:59-19:00",
+    "speaker" : "Speaker 1",
+    "text" : "高度が分かるんですね"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "今これ標高だけで",
+    "timestamp" : "19:00-19:02"
+  },
+  {
+    "text" : "こう見てるこの谷を",
+    "speaker" : "Speaker 2",
+    "timestamp" : "19:03-19:05"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これは今現在の標高の",
+    "timestamp" : "19:06-19:08"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "そうです",
+    "timestamp" : "19:08-19:08"
+  },
+  {
+    "timestamp" : "19:10-19:11",
+    "speaker" : "Speaker 1",
+    "text" : "22.34メートル"
+  },
+  {
+    "text" : "地面はね",
+    "speaker" : "Speaker 2",
+    "timestamp" : "19:12-19:12"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "19:13-19:14",
+    "text" : "それの上にさらに"
+  },
+  {
+    "text" : "この建物が乗ってますからね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "19:15-19:16"
+  },
+  {
+    "timestamp" : "19:17-19:18",
+    "speaker" : "Speaker 1",
+    "text" : "もうちょっとありますけどね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これなんていうアプリですか?",
+    "timestamp" : "19:19-19:21"
+  },
+  {
+    "text" : "これはスーパー地形っていう",
+    "speaker" : "Speaker 5",
+    "timestamp" : "19:21-19:22"
+  },
+  {
+    "timestamp" : "19:22-19:23",
+    "speaker" : "Speaker 1",
+    "text" : "スーパー地形"
+  },
+  {
+    "text" : "この地図を見てもらってメンバーさんに書いてほしいな",
+    "timestamp" : "19:27-19:30",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "なるほど",
+    "timestamp" : "19:30-19:30"
+  },
+  {
+    "text" : "結構そういうモチーフとかも地図とか",
+    "timestamp" : "19:32-19:34",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "19:34-19:35",
+    "text" : "ここが渋谷ですね"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "谷ですね",
+    "timestamp" : "19:36-19:37"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "本当真ん中",
+    "timestamp" : "19:37-19:38"
+  },
+  {
+    "text" : "この原塚ちょうど",
+    "timestamp" : "19:39-19:41",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "ここが明治神宮で",
+    "timestamp" : "19:41-19:42",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "高いですね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "19:42-19:44"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "この渋谷川がこういって 宇田川と合流している方が渋谷川",
+    "timestamp" : "19:44-19:49"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "面白いこうやってみると するとねスーパー地形ね後で後で",
+    "timestamp" : "19:50-19:57"
+  },
+  {
+    "text" : "はい",
+    "timestamp" : "20:25-20:26",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "はいまだいっぱいあるからね",
+    "timestamp" : "20:26-20:29"
+  },
+  {
+    "text" : "いいのいいのこれやってほしかった",
+    "speaker" : "Speaker 4",
+    "timestamp" : "20:30-20:31"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "20:32-20:33",
+    "text" : "かっこいいこれ好き"
+  },
+  {
+    "text" : "めっちゃ原宿っぽいじゃん",
+    "timestamp" : "20:35-20:36",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "これもスタンプ",
+    "timestamp" : "20:37-20:39"
+  },
+  {
+    "timestamp" : "20:39-20:40",
+    "speaker" : "Speaker 1",
+    "text" : "うん全部スタンプです"
+  },
+  {
+    "timestamp" : "20:42-20:45",
+    "text" : "これもよく見たら影が交互に行ってるんですよ",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "20:46-20:47",
+    "speaker" : "Speaker 1",
+    "text" : "そういう遊び心"
+  },
+  {
+    "text" : "ルールは無視するためにあるって",
+    "speaker" : "Speaker 1",
+    "timestamp" : "20:51-20:53"
+  },
+  {
+    "text" : "私は思ってるんで",
+    "speaker" : "Speaker 1",
+    "timestamp" : "20:53-20:55"
+  },
+  {
+    "text" : "これはオフレコですけど",
+    "timestamp" : "21:00-21:01",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "私もお土産あんま好きじゃないんですよ",
+    "timestamp" : "21:01-21:04",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "お土産プロジェクトって言われた時に",
+    "timestamp" : "21:05-21:08"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "21:08-21:10",
+    "text" : "お土産じゃないものをどうやって"
+  },
+  {
+    "text" : "お土産で作れるんだろうっていう",
+    "timestamp" : "21:10-21:12",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "なるほどね",
+    "timestamp" : "21:12-21:13",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "面白いですね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "21:13-21:14"
+  },
+  {
+    "text" : "景色がいいところって感じで",
+    "timestamp" : "21:22-21:24",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "最初の方のところまで歩いていて",
+    "timestamp" : "21:24-21:27"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ちょっとくらいの階段なら大丈夫です",
+    "timestamp" : "21:30-21:33"
+  },
+  {
+    "text" : "でもね、ここの植物あって原宿に抜けてるって",
+    "speaker" : "Speaker 5",
+    "timestamp" : "21:34-21:39"
+  },
+  {
+    "timestamp" : "21:39-21:40",
+    "speaker" : "Speaker 5",
+    "text" : "みんなが写真になってるここですね"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "timestamp" : "21:41-21:42",
+    "text" : "ここがいいかなと思って"
+  },
+  {
+    "text" : "皆さんがいなくなってからです",
+    "timestamp" : "21:43-21:44",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "観光名所にもなってますよね",
+    "timestamp" : "21:54-21:56"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "21:58-22:00",
+    "text" : "多分ここで写真を撮るって"
+  },
+  {
+    "text" : "こうやって自分を背に撮るって",
+    "timestamp" : "22:00-22:03",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "22:04-22:06",
+    "text" : "意図はなかったでしょうね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "皆さん作るときに",
+    "speaker" : "Speaker 1",
+    "timestamp" : "22:06-22:08"
+  },
+  {
+    "timestamp" : "22:17-22:20",
+    "text" : "ちょっと木の枝とかここに置いておきたいですね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "子供がどうそれで遊ぶか私は",
+    "timestamp" : "22:20-22:22",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "見てみたいとか積み木みたいな石の積み木みたいな",
+    "speaker" : "Speaker 1",
+    "timestamp" : "22:24-22:28"
+  },
+  {
+    "timestamp" : "22:32-22:37",
+    "speaker" : "Speaker 1",
+    "text" : "祝日と週末開けてるときは結構親子さんが"
+  },
+  {
+    "timestamp" : "22:37-22:46",
+    "text" : "来たりしますね。昨日もたまごっちのイベントが下であって、皆さんこう上がってきて",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "「ママ、あそこ何?」みたいな感じで渋谷フォントに入ってきてもらったり",
+    "timestamp" : "22:47-22:51",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "23:00-23:01",
+    "text" : "どこ?どこで?",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "お二人で喋ってるの適当に私取りますので",
+    "timestamp" : "23:04-23:07"
+  },
+  {
+    "text" : "電源がちゃんとある",
+    "timestamp" : "23:07-23:08",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "電源があるのすごい",
+    "timestamp" : "23:09-23:11"
+  },
+  {
+    "text" : "ご自由にお使いくださいって感じ",
+    "timestamp" : "23:12-23:14",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "仕事でいい",
+    "timestamp" : "23:17-23:17",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "23:18-23:19",
+    "text" : "仕事でいい"
+  },
+  {
+    "text" : "ここに手ぶらあるし",
+    "timestamp" : "23:19-23:20",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "23:20-23:20",
+    "speaker" : "Speaker 1",
+    "text" : "うん"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "よくできてる あとこのなんか意外性がいいですよねヤシの木の",
+    "timestamp" : "23:38-23:43"
+  },
+  {
+    "text" : "いやーこれ ヤシの木は意外ですね",
+    "timestamp" : "23:44-23:50",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "23:50-23:54",
+    "text" : "オリーブ。これはオーストラリアの。",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "23:57-24:02",
+    "speaker" : "Speaker 1",
+    "text" : "そもそもランドスケープって植物に興味あるから、そっちの道に行くんですか?"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "そういうやつもいますね。",
+    "timestamp" : "24:03-24:04"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:06-24:11",
+    "text" : "あとは、公園作りたいとかいうやつもいますね。"
+  },
+  {
+    "timestamp" : "24:11-24:14",
+    "speaker" : "Speaker 1",
+    "text" : "じゃあ結構いろんな人がいろんな興味の…"
+  },
+  {
+    "timestamp" : "24:15-24:17",
+    "text" : "生き物が好きなやつもいますね。",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "先生は?",
+    "timestamp" : "24:17-24:18"
+  },
+  {
+    "timestamp" : "24:18-24:26",
+    "speaker" : "Speaker 2",
+    "text" : "私は、庭が好きで、庭を作りたいなと思って。"
+  },
+  {
+    "timestamp" : "24:28-24:29",
+    "speaker" : "Speaker 1",
+    "text" : "理想の庭って何ですか?"
+  },
+  {
+    "timestamp" : "24:34-24:43",
+    "text" : "昔は、結構、葛利休とか、作り込んだ芸術的な庭がいいと思ってたんですけど、",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:44-24:47",
+    "text" : "だんだん普通の人の家の庭がいいなと言い始めてます"
+  },
+  {
+    "text" : "ぜひうちの冷えないらの庭に来ていただいて",
+    "timestamp" : "24:50-24:53",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "イギリスに",
+    "timestamp" : "24:54-24:55"
+  },
+  {
+    "text" : "ナショナルガーデンススキームっていう",
+    "speaker" : "Speaker 2",
+    "timestamp" : "24:58-25:00"
+  },
+  {
+    "text" : "聞いたことはチラッと",
+    "speaker" : "Speaker 1",
+    "timestamp" : "25:02-25:04"
+  },
+  {
+    "text" : "普通の人が",
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:04-25:05"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "庭をオープンガーデンして",
+    "timestamp" : "25:07-25:09"
+  },
+  {
+    "text" : "それでそれを見て回れるようになってて",
+    "timestamp" : "25:09-25:13",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "1年に1回オープンするんですよ",
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:14-25:16"
+  },
+  {
+    "text" : "それでその",
+    "timestamp" : "25:17-25:17",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ナショナルガーデンズスキーム団体が",
+    "timestamp" : "25:19-25:22"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "それをアレンジしてて",
+    "timestamp" : "25:23-25:24"
+  },
+  {
+    "text" : "それでだいたいこう",
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:25-25:25"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "誰かがこうなんか持ちながらこう",
+    "timestamp" : "25:26-25:28"
+  },
+  {
+    "text" : "リサーチしてるんですよ",
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:29-25:30"
+  },
+  {
+    "text" : "買ったらその本があって",
+    "timestamp" : "25:30-25:32",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:32-25:33",
+    "text" : "イエローブックってそれ買うと"
+  },
+  {
+    "text" : "まあイギリス中で",
+    "timestamp" : "25:34-25:37",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "25:37-25:40",
+    "speaker" : "Speaker 2",
+    "text" : "だいたい365インチどっか空いてるんで 見て回れるんですよ"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "25:41-25:42",
+    "text" : "っていうのがあって"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "でその 審査があるんですよ",
+    "timestamp" : "25:43-25:45"
+  },
+  {
+    "text" : "あーなるほど その基準は何か?",
+    "timestamp" : "25:46-25:48",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "基準はね 40分以上楽しめるだけのクオリティがあることになるんです",
+    "timestamp" : "25:48-25:52"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "すごい! 40分なんですね",
+    "timestamp" : "25:52-25:55"
+  },
+  {
+    "text" : "それでその ちゃんと審査を受けるから",
+    "timestamp" : "25:57-25:59",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "26:00-26:04",
+    "text" : "うちの庭 ナショナルガーデンズスキームに登録されてるっていうのが"
+  },
+  {
+    "text" : "ガーデンナーにとってはちょっとしたステータスね。",
+    "speaker" : "Speaker 2",
+    "timestamp" : "26:04-26:08"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "1年に1回だから、そんな負担でもないし。",
+    "timestamp" : "26:09-26:12"
+  },
+  {
+    "text" : "それでその1年に向かって、その1日に向かって1年間かけて作り込むから、",
+    "speaker" : "Speaker 2",
+    "timestamp" : "26:12-26:18"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "すごいみんないい庭になって。",
+    "timestamp" : "26:19-26:20"
+  },
+  {
+    "timestamp" : "26:22-26:25",
+    "speaker" : "Speaker 2",
+    "text" : "それでその、イギリスでだから、イギリスに行くと、"
+  },
+  {
+    "timestamp" : "26:27-26:30",
+    "speaker" : "Speaker 2",
+    "text" : "でかい公園とかよりも、個人の家の庭を見ても、"
+  },
+  {
+    "timestamp" : "26:30-26:31",
+    "text" : "うんうんうんうん",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "そればっか見てるから",
+    "speaker" : "Speaker 2",
+    "timestamp" : "26:32-26:33"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "逆に公園ではやらしいことを行ってるからね、今イギリスではね",
+    "timestamp" : "26:33-26:38"
+  },
+  {
+    "timestamp" : "26:39-26:46",
+    "speaker" : "Speaker 2",
+    "text" : "そうすると、イギリスの風景の印象が個人の庭でできてるってすごいなって"
+  },
+  {
+    "text" : "確かに",
+    "timestamp" : "26:47-26:48",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "うちの近くでも年1回だけ門を開けて",
+    "speaker" : "Speaker 1",
+    "timestamp" : "26:49-26:54"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "みんなに庭の桜を見せるっていう近所の人がいて",
+    "timestamp" : "26:54-27:01"
+  },
+  {
+    "timestamp" : "27:01-27:01",
+    "text" : "そうなんですか?",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "お屋敷?個人の庭ですね",
+    "timestamp" : "27:02-27:04",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "個人の庭です",
+    "timestamp" : "27:04-27:05"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "素晴らしいですね",
+    "timestamp" : "27:05-27:05"
+  },
+  {
+    "text" : "すごいなんか",
+    "speaker" : "Speaker 1",
+    "timestamp" : "27:06-27:07"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "27:07-27:08",
+    "text" : "いいですね"
+  },
+  {
+    "timestamp" : "27:08-27:10",
+    "speaker" : "Speaker 1",
+    "text" : "その人もすごい嬉しそうで"
+  },
+  {
+    "text" : "いいですね",
+    "speaker" : "Speaker 1",
+    "timestamp" : "27:11-27:11"
+  },
+  {
+    "timestamp" : "27:11-27:14",
+    "text" : "やっぱり今ってあんま近所付き合いないから",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "そこでお茶出したりとか",
+    "timestamp" : "27:14-27:16",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "網もらっていくみたいな感じでお話しして",
+    "timestamp" : "27:16-27:20"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "その人が多分近所の人と関われる",
+    "timestamp" : "27:20-27:24"
+  },
+  {
+    "timestamp" : "27:26-27:29",
+    "text" : "媒介としてその桜を使ってるというか",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "なるほど、いいですね",
+    "speaker" : "Speaker 2",
+    "timestamp" : "27:29-27:31"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "そういうところにすごい興味ありますね",
+    "timestamp" : "27:32-27:33"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "庭ってやっぱりそういう人の繋がりを埋める",
+    "timestamp" : "27:34-27:37"
+  },
+  {
+    "timestamp" : "27:38-27:39",
+    "speaker" : "Speaker 2",
+    "text" : "メディアだと思うし"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "27:40-27:40",
+    "text" : "ねー"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "27:41-27:44",
+    "text" : "そうなんですよね"
+  },
+  {
+    "timestamp" : "27:44-27:49",
+    "text" : "私も今、がんばって実家に住んでるので一人で",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "27:50-27:54",
+    "speaker" : "Speaker 1",
+    "text" : "庭をどういう風に作っていくかっていうのを考えているので"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ぜひ今度先生のアドバイスを",
+    "timestamp" : "27:55-27:57"
+  },
+  {
+    "text" : "ああ、ぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜひぜ",
+    "timestamp" : "27:57-28:14",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "timestamp" : "28:16-28:19",
+    "speaker" : "Speaker 5",
+    "text" : "街の造りでもいいですし、原宿という全体でもいいですし。"
+  },
+  {
+    "timestamp" : "28:22-28:23",
+    "speaker" : "Speaker 2",
+    "text" : "そうね。"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "まだ工事も続いてますしね。",
+    "timestamp" : "28:27-28:28"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "28:29-28:41",
+    "text" : "やっぱり、ほんの数年なのに、来るたびにガラッと変わっているし、駅も変わっているし、"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "相変わらず工事中で",
+    "timestamp" : "28:42-28:43"
+  },
+  {
+    "text" : "終わりが見えないのが逆にちょっとほっとしますね",
+    "timestamp" : "28:46-28:49",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "別になんかこう",
+    "timestamp" : "28:50-28:51"
+  },
+  {
+    "text" : "カオス感がね",
+    "timestamp" : "28:54-28:55",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "28:58-28:59",
+    "text" : "いつも変わってるから",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "29:00-29:01",
+    "speaker" : "Speaker 2",
+    "text" : "前と違うなみたいな"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:02-29:03",
+    "text" : "戸惑ってるの俺だけじゃないんだと思って"
+  },
+  {
+    "timestamp" : "29:04-29:11",
+    "speaker" : "Speaker 1",
+    "text" : "上から見ると結構迷ってる人も見えたりするし"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "目印がない",
+    "timestamp" : "29:12-29:13"
+  },
+  {
+    "text" : "まあね",
+    "timestamp" : "29:14-29:15",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "29:16-29:17",
+    "speaker" : "Speaker 1",
+    "text" : "ないですよね"
+  },
+  {
+    "timestamp" : "29:17-29:18",
+    "speaker" : "Speaker 1",
+    "text" : "土地の"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "でもでかい地形は残ってるし",
+    "timestamp" : "29:21-29:23"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "それは",
+    "timestamp" : "29:26-29:26"
+  },
+  {
+    "text" : "ちょっと安心しましたけどね",
+    "timestamp" : "29:27-29:28",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "29:29-29:31",
+    "speaker" : "Speaker 1",
+    "text" : "先生が教えてくれた地形のアプリで"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "スーパー地形で見てみたいですね",
+    "timestamp" : "29:32-29:33"
+  },
+  {
+    "timestamp" : "29:33-29:35",
+    "speaker" : "Speaker 1",
+    "text" : "スーパー地形で見てみたいですね"
+  },
+  {
+    "timestamp" : "29:35-29:37",
+    "text" : "スーパー地形ぜひ見てみてください",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "timestamp" : "29:37-29:39",
+    "text" : "絶対面白いと思う",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "結構私Googleマップを見ながら電車移動とか見てるんですよ",
+    "speaker" : "Speaker 1",
+    "timestamp" : "29:39-29:44"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "それは素晴らしいですよ",
+    "timestamp" : "29:45-29:48"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "どんな今土地を通ってるんだろうみたいな",
+    "timestamp" : "29:48-29:51"
+  },
+  {
+    "text" : "意外とそれをこの都会でやってないなって",
+    "speaker" : "Speaker 1",
+    "timestamp" : "29:51-29:54"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "29:54-29:57",
+    "text" : "最近の学生は本当地図見ないですからね"
+  },
+  {
+    "timestamp" : "29:57-29:58",
+    "text" : "本当ですか",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "みんなナビゲーションだけですね",
+    "timestamp" : "29:58-30:00"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "30:01-30:01",
+    "text" : "ダメですね"
+  },
+  {
+    "text" : "毎年授業で何も見ないで山手線の",
+    "speaker" : "Speaker 2",
+    "timestamp" : "30:03-30:09"
+  },
+  {
+    "timestamp" : "30:09-30:11",
+    "speaker" : "Speaker 2",
+    "text" : "路線図を描いてくださいってやるんですけど"
+  },
+  {
+    "text" : "年を追うごとにめちゃめちゃになっていってますね",
+    "speaker" : "Speaker 2",
+    "timestamp" : "30:12-30:15"
+  },
+  {
+    "timestamp" : "30:16-30:17",
+    "speaker" : "Speaker 1",
+    "text" : "今すごいですよ"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "timestamp" : "30:18-30:20",
+    "text" : "丸になってなくて閉じてないやつとかあるでしょ"
+  },
+  {
+    "text" : "渋谷と東京逆とかにさらにありますよ",
+    "timestamp" : "30:21-30:23",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "へぇー",
+    "timestamp" : "30:24-30:26"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "そんなもんかいな",
+    "timestamp" : "30:26-30:27"
+  },
+  {
+    "text" : "地図見ないんですよ",
+    "timestamp" : "30:29-30:30",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "山手線といえばもう",
+    "timestamp" : "30:30-30:31"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "なんとなく描けますけど",
+    "timestamp" : "30:33-30:35"
+  },
+  {
+    "timestamp" : "30:35-30:38",
+    "text" : "それは 私とか一人を避けなきゃいけないから",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "30:41-30:44",
+    "text" : "持てない 法的ないから"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ある程度覚えて2個目で左とかそう",
+    "timestamp" : "30:45-30:50"
+  },
+  {
+    "timestamp" : "30:51-30:53",
+    "speaker" : "Speaker 2",
+    "text" : "そう今の若者がやらないですね"
+  },
+  {
+    "text" : "できない",
+    "speaker" : "Speaker 2",
+    "timestamp" : "30:54-30:54"
+  },
+  {
+    "text" : "はい",
+    "timestamp" : "30:58-30:59",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "ありがとうございます",
+    "speaker" : "Speaker 5",
+    "timestamp" : "31:00-31:01"
+  },
+  {
+    "timestamp" : "31:03-31:04",
+    "speaker" : "Speaker 5",
+    "text" : "僕らはこのお話でした"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "timestamp" : "31:06-31:09",
+    "text" : "2人に来ていただいて本当に良かったです"
+  },
+  {
+    "text" : "はい",
+    "timestamp" : "31:09-31:09",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ありがとうございます",
+    "timestamp" : "31:10-31:10"
+  },
+  {
+    "text" : "私もとっても良い出会いを頂いて本当に良かった",
+    "speaker" : "Speaker 2",
+    "timestamp" : "31:12-31:14"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "本当良かった",
+    "timestamp" : "31:14-31:15"
+  },
+  {
+    "timestamp" : "31:15-31:18",
+    "text" : "また先生と何かご一緒できたらいいね",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "後で飯を差し上げます",
+    "timestamp" : "31:19-31:20"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "いい感じで僕も2人の名前がこうなった時には",
+    "timestamp" : "31:23-31:27"
+  },
+  {
+    "text" : "うーん、本当",
+    "timestamp" : "31:27-31:30",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "timestamp" : "31:57-32:00",
+    "text" : "番組ありますので、ぜひお二人また別の何か考えてね。"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:00-32:01",
+    "text" : "あー、ぜひぜひ。"
+  },
+  {
+    "timestamp" : "32:02-32:05",
+    "text" : "お聞き続き、今日の番組に行っていただければ、",
+    "speaker" : "Speaker 3"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "お嬢いです。",
+    "timestamp" : "32:05-32:05"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "いや、面白いと思う。",
+    "timestamp" : "32:06-32:07"
+  },
+  {
+    "text" : "いつですか放送?",
+    "speaker" : "Speaker 5",
+    "timestamp" : "32:07-32:08"
+  },
+  {
+    "timestamp" : "32:08-32:09",
+    "speaker" : "Speaker 5",
+    "text" : "3月4日。"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "3月4日。",
+    "timestamp" : "32:09-32:10"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "予定では3月4日。",
+    "timestamp" : "32:10-32:12"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "timestamp" : "32:12-32:16",
+    "text" : "3月4日なので、ちょっとプロフィールの出たこともいろいろいろな…"
+  },
+  {
+    "timestamp" : "32:16-32:17",
+    "speaker" : "Speaker 5",
+    "text" : "そうそう、お二人のプロフィール。"
+  },
+  {
+    "timestamp" : "32:18-32:18",
+    "speaker" : "Speaker 1",
+    "text" : "あ、はい。"
+  },
+  {
+    "timestamp" : "32:18-32:22",
+    "speaker" : "Speaker 5",
+    "text" : "ホームページに写真と一緒にお名前とプロフィールぐらいは出るんですよ。"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:22-32:23",
+    "text" : "何文字ぐらいですか?"
+  },
+  {
+    "text" : "あー、ちょっとね、こっちで原稿案作って送るので、",
+    "timestamp" : "32:23-32:26",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "text" : "情報が合っているかどうか?",
+    "timestamp" : "32:26-32:28",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:29-32:29",
+    "text" : "そうですか?"
+  },
+  {
+    "text" : "私も100文字、200文字、300文字っていいって",
+    "timestamp" : "32:29-32:33",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "用意はしてるので",
+    "timestamp" : "32:34-32:35",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "文字数って制限ある?",
+    "speaker" : "Speaker 5",
+    "timestamp" : "32:35-32:36"
+  },
+  {
+    "text" : "あれば",
+    "timestamp" : "32:37-32:37",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "それを",
+    "timestamp" : "32:37-32:38",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "200文字ぐらい",
+    "timestamp" : "32:41-32:42",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "text" : "200文字ぐらい",
+    "timestamp" : "32:43-32:45",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "32:45-32:45",
+    "speaker" : "Speaker 1",
+    "text" : "ある?"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "あります",
+    "timestamp" : "32:45-32:46"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:46-32:48",
+    "text" : "じゃあ、お二人にそれをもらおう"
+  },
+  {
+    "timestamp" : "32:49-32:51",
+    "speaker" : "Speaker 1",
+    "text" : "プロフィール写真ですか?"
+  },
+  {
+    "text" : "プロフィール写真?",
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:51-32:52"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "今日撮ったやつ",
+    "timestamp" : "32:55-32:56"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "32:57-32:58",
+    "text" : "今撮りましょうか?"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "オリーブの前で",
+    "timestamp" : "32:59-33:00"
+  },
+  {
+    "text" : "ありがとうございます",
+    "speaker" : "Speaker 1",
+    "timestamp" : "33:02-33:02"
+  },
+  {
+    "text" : "お疲れ様です",
+    "timestamp" : "33:03-33:06",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "text" : "ありがとうございました",
+    "timestamp" : "33:07-33:07",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "text" : "大阪から参加してるのすごいわ",
+    "speaker" : "Speaker 2",
+    "timestamp" : "33:10-33:11"
+  },
+  {
+    "text" : "今は大阪なんですけど",
+    "timestamp" : "33:12-33:14",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "33:15-33:17",
+    "text" : "前は東京でしたよ"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "お会いした時東京でしたもんね",
+    "timestamp" : "33:17-33:20"
+  },
+  {
+    "timestamp" : "33:20-33:22",
+    "speaker" : "Speaker 5",
+    "text" : "その後カナダにずっと進み始めて"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "今帰ってきて、次またスペインに住むんですか?",
+    "timestamp" : "33:24-33:28"
+  },
+  {
+    "text" : "うらら!自由だな",
+    "timestamp" : "33:29-33:30",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "timestamp" : "33:31-33:31",
+    "text" : "うららって",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "自由だな",
+    "timestamp" : "33:34-33:35"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "次に本当に出ていただくってなったら、その時スペインからのリモート参加に?",
+    "timestamp" : "33:35-33:40"
+  },
+  {
+    "timestamp" : "33:40-33:43",
+    "speaker" : "Speaker 1",
+    "text" : "だったら一番面倒くさい時間にしましょう"
+  },
+  {
+    "text" : "意地悪しちゃいましょう",
+    "speaker" : "Speaker 1",
+    "timestamp" : "33:44-33:45"
+  },
+  {
+    "timestamp" : "33:46-33:49",
+    "speaker" : "Speaker 1",
+    "text" : "カナダの時もね、夜中によく出てます"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "スペイン4時とかさ",
+    "timestamp" : "33:49-33:50"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "スペイン朝の酔っちゃったここの昼だから",
+    "timestamp" : "33:51-33:54"
+  },
+  {
+    "text" : "イベントそうなるの",
+    "speaker" : "Speaker 1",
+    "timestamp" : "33:55-33:57"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "34:00-34:01",
+    "text" : "ありがとうございました"
+  },
+  {
+    "timestamp" : "34:02-34:03",
+    "speaker" : "Speaker 2",
+    "text" : "ありがとうございました"
+  },
+  {
+    "timestamp" : "34:03-34:04",
+    "speaker" : "Speaker 2",
+    "text" : "よかったな"
+  },
+  {
+    "text" : "4発をあえて作った話は本当に面白かったし",
+    "timestamp" : "34:08-34:10",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "timestamp" : "34:10-34:12",
+    "text" : "何にでもハマる気がしました",
+    "speaker" : "Speaker 5"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "という人によって",
+    "timestamp" : "34:13-34:14"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "今の人にとって",
+    "timestamp" : "34:16-34:17"
+  },
+  {
+    "timestamp" : "34:19-34:24",
+    "speaker" : "Speaker 1",
+    "text" : "そうAIは余白なくしちゃってるからね"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "余白を無くしてその方向に技術が進化してからね",
+    "timestamp" : "34:25-34:30"
+  },
+  {
+    "timestamp" : "34:34-34:35",
+    "speaker" : "Speaker 1",
+    "text" : "頑張ってる"
+  },
+  {
+    "text" : "お疲れ様でした",
+    "speaker" : "Speaker 4",
+    "timestamp" : "34:39-34:41"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Oh, God.",
+    "timestamp" : "34:41-34:42"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ねえです多分ここにありますねサイズが",
+    "timestamp" : "35:22-35:25"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "MTシャツをいかがですか",
+    "timestamp" : "35:26-35:27"
+  },
+  {
+    "text" : "いくらだっけ",
+    "speaker" : "Speaker 1",
+    "timestamp" : "35:28-35:29"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "timestamp" : "35:35-35:36",
+    "text" : "Tシャツいくらだっけ"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "3740円です",
+    "timestamp" : "35:39-35:40"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "37人で キーサー自分かをありがとうございます m ですかね先生",
+    "timestamp" : "35:40-35:46"
+  },
+  {
+    "timestamp" : "35:47-35:51",
+    "speaker" : "Speaker 1",
+    "text" : "8ねえいるですね l あっはいちょうどがスイッチ l 素晴らしい"
+  },
+  {
+    "text" : "おります 変わらずに俺なぁ",
+    "timestamp" : "35:54-35:58",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "じゃ買ってくれたお礼",
+    "timestamp" : "35:59-36:01"
+  },
+  {
+    "text" : "4 ありがとうございますのストライドクラブっていう",
+    "speaker" : "Speaker 1",
+    "timestamp" : "36:03-36:07"
+  },
+  {
+    "text" : "みんなが作っているありがとうございます 素晴らしい",
+    "timestamp" : "36:07-36:10",
+    "speaker" : "Speaker 1"
+  },
+  {
+    "timestamp" : "36:10-36:11",
+    "text" : "バイセンもやってるんで",
+    "speaker" : "Speaker 4"
+  },
+  {
+    "text" : "いい匂いしますね",
+    "speaker" : "Speaker 2",
+    "timestamp" : "36:13-36:14"
+  },
+  {
+    "timestamp" : "36:15-36:19",
+    "text" : "ここでコーヒーの香りを取っているのは 今日はだいぶいい匂いです",
+    "speaker" : "Speaker 4"
+  },
+  {
+    "text" : "やったばっかに 今できたても惜しいですよ",
+    "timestamp" : "36:20-36:24",
+    "speaker" : "Speaker 2"
+  },
+  {
+    "text" : "これは新しいシリーズだ",
+    "speaker" : "Speaker 4",
+    "timestamp" : "36:26-36:28"
+  },
+  {
+    "timestamp" : "36:28-36:30",
+    "speaker" : "Speaker 1",
+    "text" : "ねえ なんかすごいラベルが"
+  },
+  {
+    "text" : "誰が作ったのラベル",
+    "speaker" : "Speaker 1",
+    "timestamp" : "36:31-36:35"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "あそういうことかやっぱすごい人工夫あるなぁと思って",
+    "timestamp" : "36:36-36:40"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "お、いちご?",
+    "timestamp" : "37:05-37:06"
+  },
+  {
+    "text" : "いい場所だったな",
+    "speaker" : "Speaker 2",
+    "timestamp" : "37:20-37:22"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "良かった",
+    "timestamp" : "37:22-37:23"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "お二人の共通点が結構あるなというふうに聞きました",
+    "timestamp" : "37:23-37:29"
+  },
+  {
+    "speaker" : "Speaker 5",
+    "text" : "ありがとうございます",
+    "timestamp" : "37:32-37:34"
+  }
+]
