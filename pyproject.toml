@@ -27,6 +27,7 @@ classifiers = [
 
 [project.scripts]
 csvtoxml = "csvtoxml.cli:main"
+csvtoxml-prep = "csvtoxml.cli:prep_main"
 
 [project.optional-dependencies]
 dev = [
