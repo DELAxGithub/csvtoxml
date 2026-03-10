@@ -67,6 +67,40 @@ def color_to_premiere_label(color: str) -> str:
     return LEGACY_COLOR_MAP.get(color.lower(), "Caribbean")
 
 
+def find_media_file(
+    media_files: List[Dict[str, Any]],
+    file_name: Optional[str],
+    track_idx: int
+) -> Dict[str, Any]:
+    """Find media file by name or fall back to track index.
+
+    Args:
+        media_files: List of media file info dicts
+        file_name: Optional file name to search for
+        track_idx: Track index for fallback
+
+    Returns:
+        Media file info dict
+    """
+    if file_name:
+        # Try exact match first
+        for mf in media_files:
+            if mf.get("name") == file_name:
+                return mf
+        # Try case-insensitive match
+        file_name_lower = file_name.lower()
+        for mf in media_files:
+            if mf.get("name", "").lower() == file_name_lower:
+                return mf
+        # Try partial match (contains)
+        for mf in media_files:
+            if file_name in mf.get("name", ""):
+                return mf
+
+    # Fall back to track index
+    return media_files[min(track_idx, len(media_files) - 1)]
+
+
 def _ensure_element(parent: ET.Element, tag: str) -> ET.Element:
     """Ensure an XML child element exists, create if not."""
     child = parent.find(tag)
@@ -322,7 +356,6 @@ def generate_premiere_xml(
             track.set(attr_name, attr_value)
 
         default_clipitem = template_clipitems[0]
-        file_info = media_files[min(track_idx, len(media_files) - 1)]
 
         timeline_position = 0
 
@@ -335,6 +368,9 @@ def generate_premiere_xml(
 
             start_frames = seg.start_frames
             duration_frames = seg.duration_frames
+
+            # Find appropriate media file for this segment
+            file_info = find_media_file(media_files, seg.file_name, track_idx)
 
             clipitem = _deep_copy(default_clipitem) or ET.Element("clipitem")
             clipitem.set("id", f"clipitem-{next_clip_num}")
@@ -414,7 +450,6 @@ def generate_premiere_xml(
             track.set(attr_name, attr_value)
 
         default_clipitem = template_clipitems[0]
-        file_info = media_files[min(track_idx, len(media_files) - 1)]
         source_channel = 1 if track_idx % 2 == 0 else 2
 
         timeline_position = 0
@@ -428,6 +463,9 @@ def generate_premiere_xml(
 
             start_frames = seg.start_frames
             duration_frames = seg.duration_frames
+
+            # Find appropriate media file for this segment
+            file_info = find_media_file(media_files, seg.file_name, track_idx)
 
             clipitem = _deep_copy(default_clipitem) or ET.Element("clipitem", premiereChannelType="mono")
             clipitem.set("id", f"clipitem-{next_clip_num}")
