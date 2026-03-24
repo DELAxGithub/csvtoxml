@@ -8,13 +8,18 @@ from pathlib import Path
 from typing import List, Optional
 
 
-# Expected CSV headers
+# Required CSV headers
 TARGET_HEADERS = [
     "Speaker Name",
     "イン点",
     "アウト点",
     "文字起こし",
     "色選択",
+]
+
+# Optional CSV headers
+OPTIONAL_HEADERS = [
+    "ファイル名",
 ]
 
 
@@ -32,6 +37,7 @@ class CsvRow:
     out_timecode: str
     transcript: str
     color: str
+    file_name: Optional[str] = None
 
     @property
     def is_gap(self) -> bool:
@@ -88,6 +94,7 @@ def parse_csv(csv_path: Path | str) -> List[CsvRow]:
             out_tc = (raw.get("アウト点") or "").strip()
             text = (raw.get("文字起こし") or "").strip()
             color = (raw.get("色選択") or "").strip()
+            file_name = (raw.get("ファイル名") or "").strip() or None
 
             # Skip completely empty rows
             if not in_tc and not out_tc and not color:
@@ -100,6 +107,7 @@ def parse_csv(csv_path: Path | str) -> List[CsvRow]:
                     out_timecode=out_tc,
                     transcript=text,
                     color=color,
+                    file_name=file_name,
                 )
             )
 
