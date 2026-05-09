@@ -1,45 +1,51 @@
 # csvtoxml
 
-CSV to NLE Timeline XML converter for Premiere Pro and DaVinci Resolve.
+CSV形式の粗編指示書をPremiere Pro用XMLタイムラインに変換するCLIツール。
 
-## Overview
+ポッドキャスト「プラッと」の編集ワークフローで使用中（035〜）。
 
-`csvtoxml` converts timeline edit decisions from CSV format into XML that can be imported into video editing software:
+## ワークフロー
 
-- **Premiere Pro**: XMEML format (Final Cut Pro XML 7)
-- **DaVinci Resolve**: FCPXML format (coming soon)
-
-## Installation
-
-```bash
-pip install csvtoxml
+```
+Whisper文字起こし → Google Sheets粗編 → 荒編後CSV → csvtoxml → Premiere Pro XML
 ```
 
-Or install from source:
+1. Whisperで文字起こしCSVを生成
+2. Google Sheetsで粗編（話者・色・GAP区切りを整理）
+3. 荒編後CSVをエクスポート
+4. `csvtoxml` でテンプレートXMLと合わせてediting XMLを生成
+5. Premiere Proにインポート
+
+## インストール
 
 ```bash
-git clone https://github.com/DELAxGithub/csvtoxml.git
 cd csvtoxml
-pip install -e .
+python3 -m venv .venv
+.venv/bin/pip install -e .
 ```
 
-## Usage
+## 使い方
 
-### Command Line
+### CLI
 
 ```bash
-# Basic usage
-csvtoxml timeline.csv template.xml
+# 基本
+csvtoxml 荒編後.csv template.xml
 
-# Specify output file
-csvtoxml timeline.csv template.xml -o output.xml
+# 出力先指定
+csvtoxml 荒編後.csv template.xml -o output.xml
 
-# Custom gap duration (seconds)
-csvtoxml timeline.csv template.xml --gap 3.0
-
-# DaVinci Resolve format (coming soon)
-csvtoxml timeline.csv template.xml --format davinci
+# GAP間隔を変更（デフォルト5秒）
+csvtoxml 荒編後.csv template.xml --gap 3.0
 ```
+
+### Claude Code スキル
+
+```
+/csvtoxml csvtoxml/035radio
+```
+
+指定ディレクトリ内の `*_荒編後.csv` を自動検出し、対応するテンプレートXMLとペアにして一括変換。
 
 ### Python API
 
@@ -52,54 +58,69 @@ output_path = generate_premiere_xml(
     template_xml_path=Path("template.xml"),
     gap_seconds=5.0,
 )
-print(f"Generated: {output_path}")
 ```
 
-## CSV Format
-
-The CSV file must have these columns:
+## CSV形式
 
 | Column | Description |
 |--------|-------------|
-| `Speaker Name` | Speaker identifier |
-| `イン点` | In point timecode (HH:MM:SS:FF) |
-| `アウト点` | Out point timecode (HH:MM:SS:FF) |
-| `文字起こし` | Transcript text |
-| `色選択` | Color label (e.g., Violet, Rose, Mango) |
+| `Speaker Name` | 話者名（藤井、相馬 等） |
+| `イン点` | インポイント（HH:MM:SS:FF） |
+| `アウト点` | アウトポイント（HH:MM:SS:FF） |
+| `文字起こし` | 文字起こしテキスト |
+| `色選択` | Premiere Pro ラベル色 |
 
-### Gap Rows
+### セクション色分けの例
 
-Use `GAP_N` in the color column to insert gaps:
+同じ色の連続行が1つのブロックになる。色が変わるとブロックが分かれる。
+
+| 色 | 用途例 |
+|----|--------|
+| Violet | 導入トーク |
+| Rose | トピック1 |
+| Mango | トピック2 |
+| Caribbean | トピック3 |
+| Yellow, Tan, Lavender... | 追加トピック |
+
+### GAPマーカー
+
+色選択に `GAP_N` を指定するとセクション間の区切りになる：
 
 ```csv
-Speaker Name,イン点,アウト点,文字起こし,色選択
-,00:00:00:00,00:00:10:00,--- GAP ---,GAP_1
-```
-
-### Example
-
-```csv
-Speaker Name,イン点,アウト点,文字起こし,色選択
-田丸,00:00:29:07,00:00:44:00,これは僕はどうですか？,Violet
-田丸,00:00:44:00,00:00:52:13,もう最悪ですよ。,Violet
 ,00:00:00:00,00:00:10:02,--- 20s GAP ---,GAP_1
-中島,00:07:15:19,00:07:29:05,今年は万博があって,Rose
 ```
 
-## Supported Colors
+### CSVサンプル
 
-Premiere Pro label colors:
-- Violet, Rose, Mango, Yellow, Lavender, Caribbean
-- Tan, Forest, Blue, Purple, Teal, Brown, Gray
-- Iris, Cerulean, Magenta
+```csv
+Speaker Name,イン点,アウト点,文字起こし,色選択
+藤井,00:09:24:00,00:09:26:00,散歩しながらねお話できるなんてね,Violet
+相馬,00:09:28:00,00:09:31:00,そうですね。風流なことで。,Violet
+,00:00:00:00,00:00:10:02,--- 20s GAP ---,GAP_1
+相馬,00:10:27:00,00:10:30:00,最近フォローしてないんですけど、どんなことなさってるか。,Rose
+藤井,00:10:28:00,00:10:31:00,でもなんかこれ奇妙なご縁というか,Rose
+```
 
-## Development
+## ディレクトリ構成（エピソード単位）
+
+```
+csvtoxml/035radio/
+  35_1.xml              # テンプレートXML（Premiereからエクスポート）
+  35_2.xml
+  35_1_荒編後.csv        # Google Sheetsからエクスポート
+  35_2_荒編後.csv
+  35_1_荒編後_editing.xml # csvtoxmlで生成 → Premiereにインポート
+  35_2_荒編後_editing.xml
+```
+
+## 対応ラベル色
+
+Violet, Rose, Mango, Yellow, Lavender, Caribbean, Tan, Forest, Blue, Purple, Teal, Brown, Gray, Iris, Cerulean, Magenta
+
+## 開発
 
 ```bash
-# Install dev dependencies
 pip install -e ".[dev]"
-
-# Run tests
 pytest
 ```
 

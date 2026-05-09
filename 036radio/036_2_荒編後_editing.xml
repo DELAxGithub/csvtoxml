@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="204" Monitor.ProgramZoomOut="915261873926400" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="4.246949780923492" MZ.EditLine="200304342201599" MZ.Sequence.PreviewFrameSizeHeight="576" MZ.Sequence.PreviewFrameSizeWidth="720" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/795454d9-d3c2-429d-9474-923ab13b7018/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="795454d9-d3c2-429d-9474-923ab13b7018" MZ.Sequence.VideoTimeDisplayFormat="106" MZ.WorkOutPoint="914516870400000" MZ.WorkInPoint="0" explodedTracks="true">
+		<uuid>98966cbd-2a3c-4ed6-bc06-ec5cf1f4f39d</uuid>
+		<duration>188793</duration>
+		<rate>
+			<timebase>60</timebase>
+			<ntsc>TRUE</ntsc>
+		</rate>
+		<name>036_2_荒編後_cut</name>
+		<media>
+			<video>
+				<format>
+					
+					
+					<samplecharacteristics>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<codec>
+							
+							
+							<name>Apple ProRes 422</name>
+							
+							
+							<appspecificdata>
+								
+								
+								<appname>Final Cut Pro</appname>
+								
+								
+								<appmanufacturer>Apple Inc.</appmanufacturer>
+								
+								
+								<appversion>7.0</appversion>
+								
+								
+								<data>
+									
+									
+									<qtcodec>
+										
+										
+										<codecname>Apple ProRes 422</codecname>
+										
+										
+										<codectypename>Apple ProRes 422</codectypename>
+										
+										
+										<codectypecode>apcn</codectypecode>
+										
+										
+										<codecvendorcode>appl</codecvendorcode>
+										
+										
+										<spatialquality>1024</spatialquality>
+										
+										
+										<temporalquality>0</temporalquality>
+										
+										
+										<keyframerate>0</keyframerate>
+										
+										
+										<datarate>0</datarate>
+										
+									
+									</qtcodec>
+									
+								
+								</data>
+								
+							
+							</appspecificdata>
+							
+						
+						</codec>
+						
+						
+						<width>720</width>
+						
+						
+						<height>576</height>
+						
+						
+						<anamorphic>FALSE</anamorphic>
+						
+						
+						<pixelaspectratio>PAL-601</pixelaspectratio>
+						
+						
+						<fielddominance>none</fielddominance>
+						
+						
+						<colordepth>24</colordepth>
+						
+					
+					</samplecharacteristics>
+					
+				
+				</format>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+			</video>
+			<audio>
+				<numOutputChannels>1</numOutputChannels>
+				<format>
+					
+					
+					<samplecharacteristics>
+						
+						
+						<depth>16</depth>
+						
+						
+						<samplerate>48000</samplerate>
+						
+					
+					</samplecharacteristics>
+					
+				
+				</format>
+				<outputs>
+					
+					
+					<group>
+						
+						
+						<index>1</index>
+						
+						
+						<numchannels>1</numchannels>
+						
+						
+						<downmix>0</downmix>
+						
+						
+						<channel>
+							
+							
+							<index>1</index>
+							
+						
+						</channel>
+						
+					
+					</group>
+					
+					
+					<group>
+						
+						
+						<index>2</index>
+						
+						
+						<numchannels>1</numchannels>
+						
+						
+						<downmix>0</downmix>
+						
+						
+						<channel>
+							
+							
+							<index>2</index>
+							
+						
+						</channel>
+						
+					
+					</group>
+					
+				
+				</outputs>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					<clipitem id="clipitem-5" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>300</start>
+						
+						
+						<end>42522</end>
+						
+						
+						<in>1812</in>
+						
+						
+						<out>44034</out>
+						
+						
+						<pproTicksIn>7678954483200</pproTicksIn>
+						
+						
+						<pproTicksOut>186608764742400</pproTicksOut>
+						
+						
+						<file id="file-3">
+							<name>00085_Amic.wav</name>
+							<pathurl>file://localhost/Users/delaxstudio/Dropbox/%e3%83%95%e3%82%9a%e3%83%a9%e3%83%83%e3%81%a8/01_%e3%83%95%e3%82%9a%e3%83%a9%e3%83%83%e3%81%a8%e7%b4%a0%e6%9d%90/036%e7%a5%9e%e6%98%8e%e5%a4%a7%e5%9d%aa/main/00085_Amic.wav</pathurl>
+							<rate>
+								
+								
+								<timebase>24</timebase>
+								
+								
+								<ntsc>FALSE</ntsc>
+								
+							
+							</rate>
+							<duration>86405</duration>
+							<timecode>
+								
+								
+								<rate>
+									
+									
+									<timebase>24</timebase>
+									
+									
+									<ntsc>FALSE</ntsc>
+									
+								
+								</rate>
+								
+								
+								<string>14:07:17:21</string>
+								
+								
+								<frame>1220109</frame>
+								
+								
+								<displayformat>NDF</displayformat>
+								
+							
+							</timecode>
+							<media>
+								
+								
+								<audio>
+									
+									
+									<samplecharacteristics>
+										
+										
+										<depth>16</depth>
+										
+										
+										<samplerate>48000</samplerate>
+										
+									
+									</samplecharacteristics>
+									
+									
+									<channelcount>1</channelcount>
+									
+									
+									<audiochannel>
+										
+										
+										<sourcechannel>1</sourcechannel>
+										
+									
+									</audiochannel>
+									
+								
+								</audio>
+								
+							
+							</media>
+						</file>
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Violet</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-6" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>43423</start>
+						
+						
+						<end>72611</end>
+						
+						
+						<in>46890</in>
+						
+						
+						<out>76078</out>
+						
+						
+						<pproTicksIn>198712017504000</pproTicksIn>
+						
+						
+						<pproTicksOut>322405904620800</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Rose</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-7" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>73512</start>
+						
+						
+						<end>125011</end>
+						
+						
+						<in>80471</in>
+						
+						
+						<out>131970</out>
+						
+						
+						<pproTicksIn>341022707625600</pproTicksIn>
+						
+						
+						<pproTicksOut>559266900192000</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Mango</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-8" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>125912</start>
+						
+						
+						<end>146065</end>
+						
+						
+						<in>138213</in>
+						
+						
+						<out>158366</out>
+						
+						
+						<pproTicksIn>585723695356800</pproTicksIn>
+						
+						
+						<pproTicksOut>671128755897600</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Yellow</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-9" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>146966</start>
+						
+						
+						<end>168957</end>
+						
+						
+						<in>163106</in>
+						
+						
+						<out>185097</out>
+						
+						
+						<pproTicksIn>691216087161600</pproTicksIn>
+						
+						
+						<pproTicksOut>784410285859200</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Lavender</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-10" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>169858</start>
+						
+						
+						<end>172805</end>
+						
+						
+						<in>187544</in>
+						
+						
+						<out>190491</out>
+						
+						
+						<pproTicksIn>794780264678400</pproTicksIn>
+						
+						
+						<pproTicksOut>807269160297600</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Caribbean</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-11" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-3</masterclipid>
+						
+						
+						<name>00085_Amic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>173706</start>
+						
+						
+						<end>188793</end>
+						
+						
+						<in>192049</in>
+						
+						
+						<out>207136</out>
+						
+						
+						<pproTicksIn>813871705046400</pproTicksIn>
+						
+						
+						<pproTicksOut>877807900569600</pproTicksOut>
+						
+						
+						<file id="file-3">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Tan</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					<clipitem id="clipitem-12" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>300</start>
+						
+						
+						<end>42522</end>
+						
+						
+						<in>1812</in>
+						
+						
+						<out>44034</out>
+						
+						
+						<pproTicksIn>7678954483200</pproTicksIn>
+						
+						
+						<pproTicksOut>186608764742400</pproTicksOut>
+						
+						
+						<file id="file-4">
+							<name>00102_Bmic.wav</name>
+							<pathurl>file://localhost/Users/delaxstudio/Dropbox/%e3%83%95%e3%82%9a%e3%83%a9%e3%83%83%e3%81%a8/01_%e3%83%95%e3%82%9a%e3%83%a9%e3%83%83%e3%81%a8%e7%b4%a0%e6%9d%90/036%e7%a5%9e%e6%98%8e%e5%a4%a7%e5%9d%aa/main/00102_Bmic.wav</pathurl>
+							<rate>
+								
+								
+								<timebase>24</timebase>
+								
+								
+								<ntsc>FALSE</ntsc>
+								
+							
+							</rate>
+							<duration>86405</duration>
+							<timecode>
+								
+								
+								<rate>
+									
+									
+									<timebase>24</timebase>
+									
+									
+									<ntsc>FALSE</ntsc>
+									
+								
+								</rate>
+								
+								
+								<string>14:07:20:20</string>
+								
+								
+								<frame>1220180</frame>
+								
+								
+								<displayformat>NDF</displayformat>
+								
+							
+							</timecode>
+							<media>
+								
+								
+								<audio>
+									
+									
+									<samplecharacteristics>
+										
+										
+										<depth>16</depth>
+										
+										
+										<samplerate>48000</samplerate>
+										
+									
+									</samplecharacteristics>
+									
+									
+									<channelcount>1</channelcount>
+									
+									
+									<audiochannel>
+										
+										
+										<sourcechannel>1</sourcechannel>
+										
+									
+									</audiochannel>
+									
+								
+								</audio>
+								
+							
+							</media>
+						</file>
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Violet</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-13" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>43423</start>
+						
+						
+						<end>72611</end>
+						
+						
+						<in>46890</in>
+						
+						
+						<out>76078</out>
+						
+						
+						<pproTicksIn>198712017504000</pproTicksIn>
+						
+						
+						<pproTicksOut>322405904620800</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Rose</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-14" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>73512</start>
+						
+						
+						<end>125011</end>
+						
+						
+						<in>80471</in>
+						
+						
+						<out>131970</out>
+						
+						
+						<pproTicksIn>341022707625600</pproTicksIn>
+						
+						
+						<pproTicksOut>559266900192000</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Mango</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-15" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>125912</start>
+						
+						
+						<end>146065</end>
+						
+						
+						<in>138213</in>
+						
+						
+						<out>158366</out>
+						
+						
+						<pproTicksIn>585723695356800</pproTicksIn>
+						
+						
+						<pproTicksOut>671128755897600</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Yellow</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-16" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>146966</start>
+						
+						
+						<end>168957</end>
+						
+						
+						<in>163106</in>
+						
+						
+						<out>185097</out>
+						
+						
+						<pproTicksIn>691216087161600</pproTicksIn>
+						
+						
+						<pproTicksOut>784410285859200</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Lavender</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-17" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>169858</start>
+						
+						
+						<end>172805</end>
+						
+						
+						<in>187544</in>
+						
+						
+						<out>190491</out>
+						
+						
+						<pproTicksIn>794780264678400</pproTicksIn>
+						
+						
+						<pproTicksOut>807269160297600</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Caribbean</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-18" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-4</masterclipid>
+						
+						
+						<name>00102_Bmic.wav</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>215798</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>60</timebase>
+							
+							
+							<ntsc>TRUE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>173706</start>
+						
+						
+						<end>188793</end>
+						
+						
+						<in>192049</in>
+						
+						
+						<out>207136</out>
+						
+						
+						<pproTicksIn>813871705046400</pproTicksIn>
+						
+						
+						<pproTicksOut>877807900569600</pproTicksOut>
+						
+						
+						<file id="file-4">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene/>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Tan</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+					
+					<outputchannelindex>1</outputchannelindex>
+					
+				
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+					
+					<outputchannelindex>2</outputchannelindex>
+					
+				
+				</track>
+			</audio>
+		</media>
+	</sequence>
+</xmeml>
