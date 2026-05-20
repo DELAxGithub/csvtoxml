@@ -1,0 +1,3726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+	<sequence id="sequence-1" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="1412044462080000" TL.SQAVDividerPosition="0.5" TL.SQHideShyTracks="0" TL.SQHeaderWidth="204" Monitor.ProgramZoomOut="1583281728000000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.0013333333333333333" MZ.EditLine="1412227124985600" MZ.Sequence.PreviewFrameSizeHeight="576" MZ.Sequence.PreviewFrameSizeWidth="720" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/795454d9-d3c2-429d-9474-923ab13b7018/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="795454d9-d3c2-429d-9474-923ab13b7018" MZ.Sequence.VideoTimeDisplayFormat="101" MZ.WorkOutPoint="1583281728000000" MZ.WorkInPoint="0" explodedTracks="true">
+		<uuid>35f34e91-cbe6-4ca1-b3f5-570de67c6f13</uuid>
+		<duration>112080</duration>
+		<rate>
+			<timebase>25</timebase>
+			<ntsc>FALSE</ntsc>
+		</rate>
+		<name>37__S_cut</name>
+		<media>
+			<video>
+				<format>
+					
+					
+					<samplecharacteristics>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<codec>
+							
+							
+							<name>Apple ProRes 422</name>
+							
+							
+							<appspecificdata>
+								
+								
+								<appname>Final Cut Pro</appname>
+								
+								
+								<appmanufacturer>Apple Inc.</appmanufacturer>
+								
+								
+								<appversion>7.0</appversion>
+								
+								
+								<data>
+									
+									
+									<qtcodec>
+										
+										
+										<codecname>Apple ProRes 422</codecname>
+										
+										
+										<codectypename>Apple ProRes 422</codectypename>
+										
+										
+										<codectypecode>apcn</codectypecode>
+										
+										
+										<codecvendorcode>appl</codecvendorcode>
+										
+										
+										<spatialquality>1024</spatialquality>
+										
+										
+										<temporalquality>0</temporalquality>
+										
+										
+										<keyframerate>0</keyframerate>
+										
+										
+										<datarate>0</datarate>
+										
+									
+									</qtcodec>
+									
+								
+								</data>
+								
+							
+							</appspecificdata>
+							
+						
+						</codec>
+						
+						
+						<width>720</width>
+						
+						
+						<height>576</height>
+						
+						
+						<anamorphic>FALSE</anamorphic>
+						
+						
+						<pixelaspectratio>PAL-601</pixelaspectratio>
+						
+						
+						<fielddominance>none</fielddominance>
+						
+						
+						<colordepth>24</colordepth>
+						
+					
+					</samplecharacteristics>
+					
+				
+				</format>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="0">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+				
+				</track>
+			</video>
+			<audio>
+				<numOutputChannels>1</numOutputChannels>
+				<format>
+					
+					
+					<samplecharacteristics>
+						
+						
+						<depth>16</depth>
+						
+						
+						<samplerate>48000</samplerate>
+						
+					
+					</samplecharacteristics>
+					
+				
+				</format>
+				<outputs>
+					
+					
+					<group>
+						
+						
+						<index>1</index>
+						
+						
+						<numchannels>1</numchannels>
+						
+						
+						<downmix>0</downmix>
+						
+						
+						<channel>
+							
+							
+							<index>1</index>
+							
+						
+						</channel>
+						
+					
+					</group>
+					
+					
+					<group>
+						
+						
+						<index>2</index>
+						
+						
+						<numchannels>1</numchannels>
+						
+						
+						<downmix>0</downmix>
+						
+						
+						<channel>
+							
+							
+							<index>2</index>
+							
+						
+						</channel>
+						
+					
+					</group>
+					
+				
+				</outputs>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					<clipitem id="clipitem-3" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>125</start>
+						
+						
+						<end>4413</end>
+						
+						
+						<in>6429</in>
+						
+						
+						<out>10717</out>
+						
+						
+						<pproTicksIn>65322754560000</pproTicksIn>
+						
+						
+						<pproTicksOut>108891578880000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							<name>260420_001_Tr1.WAV</name>
+							<pathurl>file:///Users/delaxstudio/Dropbox/%E3%83%95%E3%82%9A%E3%83%A9%E3%83%83%E3%81%A8/01_%E3%83%95%E3%82%9A%E3%83%A9%E3%83%83%E3%81%A8%E7%B4%A0%E6%9D%90/037%E5%8D%83%E8%91%89%E6%9D%B1%E5%B3%B6/037_ZOOM/260420_001_Tr1.WAV</pathurl>
+							<rate>
+								
+								
+								<timebase>24</timebase>
+								
+								
+								<ntsc>FALSE</ntsc>
+								
+							
+							</rate>
+							<duration>155825</duration>
+							<timecode>
+								
+								
+								<rate>
+									
+									
+									<timebase>24</timebase>
+									
+									
+									<ntsc>FALSE</ntsc>
+									
+								
+								</rate>
+								
+								
+								<string>00:00:00:00</string>
+								
+								
+								<frame>0</frame>
+								
+								
+								<displayformat>NDF</displayformat>
+								
+							
+							</timecode>
+							<media>
+								
+								
+								<audio>
+									
+									
+									<samplecharacteristics>
+										
+										
+										<depth>16</depth>
+										
+										
+										<samplerate>48000</samplerate>
+										
+									
+									</samplecharacteristics>
+									
+									
+									<channelcount>1</channelcount>
+									
+									
+									<audiochannel>
+										
+										
+										<sourcechannel>1</sourcechannel>
+										
+									
+									</audiochannel>
+									
+								
+								</audio>
+								
+							
+							</media>
+						</file>
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Violet</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-4" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>4790</start>
+						
+						
+						<end>13429</end>
+						
+						
+						<in>10853</in>
+						
+						
+						<out>19492</out>
+						
+						
+						<pproTicksIn>110273425920000</pproTicksIn>
+						
+						
+						<pproTicksOut>198051194880000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Rose</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-5" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>13806</start>
+						
+						
+						<end>21592</end>
+						
+						
+						<in>19494</in>
+						
+						
+						<out>27280</out>
+						
+						
+						<pproTicksIn>198071516160000</pproTicksIn>
+						
+						
+						<pproTicksOut>277182259200000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Mango</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-6" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>21969</start>
+						
+						
+						<end>31985</end>
+						
+						
+						<in>29667</in>
+						
+						
+						<out>39683</out>
+						
+						
+						<pproTicksIn>301435706880000</pproTicksIn>
+						
+						
+						<pproTicksOut>403204677120000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Yellow</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-7" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>32362</start>
+						
+						
+						<end>36274</end>
+						
+						
+						<in>43176</in>
+						
+						
+						<out>47088</out>
+						
+						
+						<pproTicksIn>438695792640000</pproTicksIn>
+						
+						
+						<pproTicksOut>478444216320000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Lavender</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-8" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>36651</start>
+						
+						
+						<end>40379</end>
+						
+						
+						<in>47090</in>
+						
+						
+						<out>50818</out>
+						
+						
+						<pproTicksIn>478464537600000</pproTicksIn>
+						
+						
+						<pproTicksOut>516343403520000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Caribbean</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-9" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>40756</start>
+						
+						
+						<end>52834</end>
+						
+						
+						<in>50820</in>
+						
+						
+						<out>62898</out>
+						
+						
+						<pproTicksIn>516363724800000</pproTicksIn>
+						
+						
+						<pproTicksOut>639083934720000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Tan</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-10" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>53211</start>
+						
+						
+						<end>58243</end>
+						
+						
+						<in>67924</in>
+						
+						
+						<out>72956</out>
+						
+						
+						<pproTicksIn>690151311360000</pproTicksIn>
+						
+						
+						<pproTicksOut>741279651840000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Forest</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-11" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>58620</start>
+						
+						
+						<end>64871</end>
+						
+						
+						<in>74570</in>
+						
+						
+						<out>80821</out>
+						
+						
+						<pproTicksIn>757678924800000</pproTicksIn>
+						
+						
+						<pproTicksOut>821193085440000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Blue</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-12" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>65248</start>
+						
+						
+						<end>65883</end>
+						
+						
+						<in>80823</in>
+						
+						
+						<out>81458</out>
+						
+						
+						<pproTicksIn>821213406720000</pproTicksIn>
+						
+						
+						<pproTicksOut>827665413120000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Purple</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-13" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>66260</start>
+						
+						
+						<end>77003</end>
+						
+						
+						<in>82700</in>
+						
+						
+						<out>93443</out>
+						
+						
+						<pproTicksIn>840284928000000</pproTicksIn>
+						
+						
+						<pproTicksOut>949440683520000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Teal</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-14" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>77380</start>
+						
+						
+						<end>88330</end>
+						
+						
+						<in>93443</in>
+						
+						
+						<out>104393</out>
+						
+						
+						<pproTicksIn>949440683520000</pproTicksIn>
+						
+						
+						<pproTicksOut>1060699691520000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Brown</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-15" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>88707</start>
+						
+						
+						<end>100629</end>
+						
+						
+						<in>112331</in>
+						
+						
+						<out>124253</out>
+						
+						
+						<pproTicksIn>1141354851840000</pproTicksIn>
+						
+						
+						<pproTicksOut>1262490001920000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Gray</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-16" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-1</masterclipid>
+						
+						
+						<name>260420_001_Tr1.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>101006</start>
+						
+						
+						<end>112080</end>
+						
+						
+						<in>126152</in>
+						
+						
+						<out>137226</out>
+						
+						
+						<pproTicksIn>1281785057280000</pproTicksIn>
+						
+						
+						<pproTicksOut>1394303984640000</pproTicksOut>
+						
+						
+						<file id="file-1">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>1</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Iris</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>1</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					<clipitem id="clipitem-17" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>125</start>
+						
+						
+						<end>4413</end>
+						
+						
+						<in>6429</in>
+						
+						
+						<out>10717</out>
+						
+						
+						<pproTicksIn>65322754560000</pproTicksIn>
+						
+						
+						<pproTicksOut>108891578880000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							<name>260420_001_Tr2.WAV</name>
+							<pathurl>file:///Users/delaxstudio/Dropbox/%E3%83%95%E3%82%9A%E3%83%A9%E3%83%83%E3%81%A8/01_%E3%83%95%E3%82%9A%E3%83%A9%E3%83%83%E3%81%A8%E7%B4%A0%E6%9D%90/037%E5%8D%83%E8%91%89%E6%9D%B1%E5%B3%B6/037_ZOOM/260420_001_Tr2.WAV</pathurl>
+							<rate>
+								
+								
+								<timebase>24</timebase>
+								
+								
+								<ntsc>FALSE</ntsc>
+								
+							
+							</rate>
+							<duration>155825</duration>
+							<timecode>
+								
+								
+								<rate>
+									
+									
+									<timebase>24</timebase>
+									
+									
+									<ntsc>FALSE</ntsc>
+									
+								
+								</rate>
+								
+								
+								<string>00:00:00:00</string>
+								
+								
+								<frame>0</frame>
+								
+								
+								<displayformat>NDF</displayformat>
+								
+							
+							</timecode>
+							<media>
+								
+								
+								<audio>
+									
+									
+									<samplecharacteristics>
+										
+										
+										<depth>16</depth>
+										
+										
+										<samplerate>48000</samplerate>
+										
+									
+									</samplecharacteristics>
+									
+									
+									<channelcount>1</channelcount>
+									
+									
+									<audiochannel>
+										
+										
+										<sourcechannel>1</sourcechannel>
+										
+									
+									</audiochannel>
+									
+								
+								</audio>
+								
+							
+							</media>
+						</file>
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Violet</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-18" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>4790</start>
+						
+						
+						<end>13429</end>
+						
+						
+						<in>10853</in>
+						
+						
+						<out>19492</out>
+						
+						
+						<pproTicksIn>110273425920000</pproTicksIn>
+						
+						
+						<pproTicksOut>198051194880000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Rose</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-19" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>13806</start>
+						
+						
+						<end>21592</end>
+						
+						
+						<in>19494</in>
+						
+						
+						<out>27280</out>
+						
+						
+						<pproTicksIn>198071516160000</pproTicksIn>
+						
+						
+						<pproTicksOut>277182259200000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Mango</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-20" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>21969</start>
+						
+						
+						<end>31985</end>
+						
+						
+						<in>29667</in>
+						
+						
+						<out>39683</out>
+						
+						
+						<pproTicksIn>301435706880000</pproTicksIn>
+						
+						
+						<pproTicksOut>403204677120000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Yellow</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-21" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>32362</start>
+						
+						
+						<end>36274</end>
+						
+						
+						<in>43176</in>
+						
+						
+						<out>47088</out>
+						
+						
+						<pproTicksIn>438695792640000</pproTicksIn>
+						
+						
+						<pproTicksOut>478444216320000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Lavender</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-22" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>36651</start>
+						
+						
+						<end>40379</end>
+						
+						
+						<in>47090</in>
+						
+						
+						<out>50818</out>
+						
+						
+						<pproTicksIn>478464537600000</pproTicksIn>
+						
+						
+						<pproTicksOut>516343403520000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Caribbean</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-23" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>40756</start>
+						
+						
+						<end>52834</end>
+						
+						
+						<in>50820</in>
+						
+						
+						<out>62898</out>
+						
+						
+						<pproTicksIn>516363724800000</pproTicksIn>
+						
+						
+						<pproTicksOut>639083934720000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Tan</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-24" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>53211</start>
+						
+						
+						<end>58243</end>
+						
+						
+						<in>67924</in>
+						
+						
+						<out>72956</out>
+						
+						
+						<pproTicksIn>690151311360000</pproTicksIn>
+						
+						
+						<pproTicksOut>741279651840000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Forest</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-25" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>58620</start>
+						
+						
+						<end>64871</end>
+						
+						
+						<in>74570</in>
+						
+						
+						<out>80821</out>
+						
+						
+						<pproTicksIn>757678924800000</pproTicksIn>
+						
+						
+						<pproTicksOut>821193085440000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Blue</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-26" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>65248</start>
+						
+						
+						<end>65883</end>
+						
+						
+						<in>80823</in>
+						
+						
+						<out>81458</out>
+						
+						
+						<pproTicksIn>821213406720000</pproTicksIn>
+						
+						
+						<pproTicksOut>827665413120000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Purple</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-27" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>66260</start>
+						
+						
+						<end>77003</end>
+						
+						
+						<in>82700</in>
+						
+						
+						<out>93443</out>
+						
+						
+						<pproTicksIn>840284928000000</pproTicksIn>
+						
+						
+						<pproTicksOut>949440683520000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Teal</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-28" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>77380</start>
+						
+						
+						<end>88330</end>
+						
+						
+						<in>93443</in>
+						
+						
+						<out>104393</out>
+						
+						
+						<pproTicksIn>949440683520000</pproTicksIn>
+						
+						
+						<pproTicksOut>1060699691520000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Brown</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-29" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>88707</start>
+						
+						
+						<end>100629</end>
+						
+						
+						<in>112331</in>
+						
+						
+						<out>124253</out>
+						
+						
+						<pproTicksIn>1141354851840000</pproTicksIn>
+						
+						
+						<pproTicksOut>1262490001920000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Gray</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<clipitem id="clipitem-30" premiereChannelType="mono">
+						
+						
+						<masterclipid>masterclip-2</masterclipid>
+						
+						
+						<name>260420_001_Tr2.WAV</name>
+						
+						
+						<enabled>TRUE</enabled>
+						
+						
+						<duration>155825</duration>
+						
+						
+						<rate>
+							
+							
+							<timebase>25</timebase>
+							
+							
+							<ntsc>FALSE</ntsc>
+							
+						
+						</rate>
+						
+						
+						<start>101006</start>
+						
+						
+						<end>112080</end>
+						
+						
+						<in>126152</in>
+						
+						
+						<out>137226</out>
+						
+						
+						<pproTicksIn>1281785057280000</pproTicksIn>
+						
+						
+						<pproTicksOut>1394303984640000</pproTicksOut>
+						
+						
+						<file id="file-2">
+							</file>
+						
+						
+						<sourcetrack>
+							
+							
+							<mediatype>audio</mediatype>
+							
+							
+							<trackindex>2</trackindex>
+							
+						
+						</sourcetrack>
+						
+						
+						<logginginfo>
+							
+							
+							<description/>
+							
+							
+							<scene>260420</scene>
+							
+							
+							<shottake/>
+							
+							
+							<lognote/>
+							
+							
+							<good/>
+							
+							
+							<originalvideofilename/>
+							
+							
+							<originalaudiofilename/>
+							
+						
+						</logginginfo>
+						
+						
+						<colorinfo>
+							
+							
+							<lut/>
+							
+							
+							<lut1/>
+							
+							
+							<asc_sop/>
+							
+							
+							<asc_sat/>
+							
+							
+							<lut2/>
+							
+						
+						</colorinfo>
+						
+						
+						<labels>
+							
+							
+							<label2>Iris</label2>
+							
+						
+						</labels>
+						
+					
+					</clipitem>
+					<enabled>TRUE</enabled>
+					<locked>FALSE</locked>
+					<outputchannelindex>2</outputchannelindex>
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+					
+					<outputchannelindex>1</outputchannelindex>
+					
+				
+				</track>
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="41" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="バランス" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="Mono">
+					
+					
+					<enabled>TRUE</enabled>
+					
+					
+					<locked>FALSE</locked>
+					
+					
+					<outputchannelindex>2</outputchannelindex>
+					
+				
+				</track>
+			</audio>
+		</media>
+	</sequence>
+</xmeml>
