@@ -1,0 +1,45 @@
+# csvtoxml
+
+> CLI tool that converts rough-cut CSV (Whisper transcripts + speaker labels + in/out points) into a Premiere Pro / FCP XML timeline. Built for podcast editing workflows.
+
+## What this is
+
+csvtoxml is a Python CLI that bridges spreadsheet-based rough cuts and NLE timelines. The workflow is: Whisper transcription → Google Sheets rough cut (speaker + color labels + GAP separators) → exported CSV → `csvtoxml` → Premiere Pro XML. Used in production for the "プラッと (Platto)" podcast since episode 035.
+
+- Language: Python 3
+- Distribution: editable install (`pip install -e .`)
+- Output: Premiere Pro Final Cut Pro XML (compatible with Premiere import + DaVinci Resolve via FCP XML)
+- Inputs: rough-cut CSV + template XML
+
+## Where to start
+
+- [README](https://github.com/DELAxGithub/csvtoxml/blob/main/README.md) — install, CSV format, CLI usage, Python API
+- [src/csvtoxml/](https://github.com/DELAxGithub/csvtoxml/tree/main/src/csvtoxml) — package source
+- [035radio/](https://github.com/DELAxGithub/csvtoxml/tree/main/035radio), [036radio/](https://github.com/DELAxGithub/csvtoxml/tree/main/036radio) — example episode bundles (CSV + template XML)
+- [scripts/](https://github.com/DELAxGithub/csvtoxml/tree/main/scripts) — auxiliary scripts and GAS integration
+
+## Agent Usage
+
+- CLI help: `csvtoxml --help`
+- Basic: `csvtoxml ROUGH_CUT.csv TEMPLATE.xml`
+- Custom GAP: `csvtoxml ROUGH_CUT.csv TEMPLATE.xml --gap 3.0`
+- Python: `from csvtoxml.writers.premiere import generate_premiere_xml`
+
+## CSV format (required columns)
+
+| Column | Description |
+|---|---|
+| `Speaker Name` | Speaker label |
+| `イン点` | In-point (HH:MM:SS:FF) |
+| `アウト点` | Out-point (HH:MM:SS:FF) |
+| `文字起こし` | Transcript text |
+| `色選択` | Premiere Pro label color (drives section blocking) |
+
+Consecutive rows with the same color form one block; color changes split blocks.
+
+## What this is NOT
+
+- Not a transcription tool — it consumes Whisper output, doesn't run Whisper
+- Not a non-podcast editor — column names are Japanese (Speaker/イン点/アウト点/文字起こし/色選択); generalize before reuse
+- Not a full NLE — it only generates the timeline XML, you still edit in Premiere/Resolve
+- Not a stock-clip pipeline — operates on user-supplied source media
