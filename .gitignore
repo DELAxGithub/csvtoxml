@@ -41,3 +41,6 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# プラッと whisper pipeline: 生音声(symlink)・16k中間変換はコミットしない
+*radio/wav/
