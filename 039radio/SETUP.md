@@ -60,17 +60,23 @@ python3 merge_pinmics.py
 `39_whisper_merged.csv` を開いて不要発話削除＋色分け → `39__S.csv` で保存。
 色: 連続同色=1ブロック、`GAP_N`=空白。
 
-## 4. DaVinci Resolveに流し込み
+## 4. DaVinci Resolveに流し込み（Console 1行・編集XML不要）
 
-Media Pool に `039` フォルダ作成＋Tr1/Tr2 WAV取込 → Console Py3 で:
+`csv_to_resolve_timeline.py` の冒頭3定数を荒編に合わせる:
+- `CSV_PATH` = 荒編CSVの絶対パス（編集者の保存先。例 `.../039edit/39_wh.csv`）
+- `TIMELINE_NAME` = `039編集_cut` 等、**既存TLと別名にして非破壊**
+- `FOLDER_NAME=039` / `TR1_CLIP/TR2_CLIP`（収録後の実WAV名に）
+
+Media Pool に `039` フォルダ作成＋Tr1/Tr2 WAV取込 → `Workspace > Console > Py3` で1行:
 
 ```python
 exec(open("/Users/delaxpro/src/70_プラッと/platto-automation/csvtoxml/039radio/csv_to_resolve_timeline.py", encoding="utf-8").read())
 ```
 
-→ `39__S_api` タイムライン生成。
+→ 新規 `TIMELINE_NAME` に Tr1/Tr2 同期でブロック生成。Console に `Tr1/Tr2 appended` 数が出る。
+resolve MCP 接続時は `resolve_get_timeline_info` でクリップ数＝ブロック数を裏取り可。
 
 ## 参照
 
-- 038radio/ : 直近の動作実績（石塚/重田）
+- 038radio/ : DaVinci Console流し込み + MCP裏取りまで実証（2026-06-01、15色16ブロック）
 - 037radio/ : 初回動作確認

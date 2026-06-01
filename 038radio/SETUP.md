@@ -50,25 +50,35 @@ python3 merge_pinmics.py
 ## 4. 荒編（人間作業）
 
 `38_whisper_merged.csv` を Numbers / Excel で開いて、不要発話を削除し色分けする。
-完成版を `38__S.csv` として保存。
+完成版を保存（置き場所は任意。今回は編集者が `~/Dropbox/プラッと/01_プラッと素材/038重田石塚/038edit/38_wh.csv` に保存）。
 
-色マッピングルール（37 と同じ）:
-- 連続する同じ色 → 1ブロックに統合
+色マッピングルール:
+- 連続する同じ色 → 1ブロックに統合（色値自体は使わず、色変化点でブロック分割）
 - `GAP_N` 色 → タイムライン上の空白
-- 結果: 14ブロック + 13ギャップ 程度の構造
+- 色は何種類でも可（**実績: 15色 → 16ブロック + 15ギャップ**）
 
-## 5. DaVinci Resolveに流し込み
+## 5. DaVinci Resolveに流し込み（Console 1行・編集XML不要）✅実証済 2026-06-01
 
-1. DaVinci Resolveでプロジェクトを開く
-2. Media Pool に `038` フォルダを作成、Tr1/Tr2 のWAVを取り込む
+`csv_to_resolve_timeline.py` の冒頭3定数は今回の荒編に合わせて設定済み:
+- `CSV_PATH` = `.../038edit/38_wh.csv`
+- `TIMELINE_NAME` = `038編集_cut`（**既存 "038編集" を壊さない非破壊の新規TL**）
+- `FOLDER_NAME=038` / `TR1_CLIP/TR2_CLIP=260531_001_Tr1/Tr2.WAV`
+
+手順:
+1. DaVinci Resolveでプロジェクト（プラット編集0518）を開く
+2. Media Pool に `038` フォルダ + Tr1/Tr2 WAV があることを確認（取り込み済）
 3. `Workspace > Console > Py3` を開く
-4. 以下を実行:
+4. 1行ペースト:
 
 ```python
 exec(open("/Users/delaxpro/src/70_プラッと/platto-automation/csvtoxml/038radio/csv_to_resolve_timeline.py", encoding="utf-8").read())
 ```
 
-→ `38__S_api` タイムラインが作られて、Tr1/Tr2 同期で14クリップ程度が並ぶ。
+→ 新規 `038編集_cut` に **16ブロック**が Tr1/Tr2 同期で生成（GAP_N は空白）。Console に `Tr1 appended: 16 / Tr2 appended: 16 / DONE`。
+
+**検証（実証済）**: resolve MCP で `resolve_get_timeline_info("038編集_cut")` → A1=16 / A2=16、`resolve_get_clip_source_info` で先頭クリップ `left_offset=7318 ÷ 24fps = 304.9s` がブロック1イン点と一致。
+
+> fps は気にしなくてよい: CSV は 25fps 記述だが、スクリプトが秒換算 → timeline/clip fps を動的取得して frame 計算する（038編集_cut は 24fps で生成、frame 精度は保たれる）。
 
 ## トラブルシューティング
 
