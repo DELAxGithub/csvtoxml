@@ -7,14 +7,21 @@ CSV形式の粗編指示書をPremiere Pro用XMLタイムラインに変換す�
 ## ワークフロー
 
 ```
-Whisper文字起こし → Google Sheets粗編 → 荒編後CSV → csvtoxml → Premiere Pro XML
+ピンマイクWAV ×N → 優位差分VAD → Whisper ×N → TC順マージ → テキストクリーンアップ
+   → Google Sheets粗編 → 荒編後CSV → csvtoxml → Premiere Pro XML / DaVinci
 ```
 
-1. Whisperで文字起こしCSVを生成
+1. Whisperで文字起こしCSVを生成（ピンマイク別録りなら `{N}radio/` の
+   `vad_segments.py` → `transcribe_segments.py` → `merge_pinmics.py`）
 2. Google Sheetsで粗編（話者・色・GAP区切りを整理）
 3. 荒編後CSVをエクスポート
 4. `csvtoxml` でテンプレートXMLと合わせてediting XMLを生成
 5. Premiere Proにインポート
+
+複数ピンマイクの場合、クロストーク除去は**音（VADの6dB優位差分）とテキスト
+（`dialogue_cleanup.py`）の2層**で行う。片方だけでは足りない理由と、TC順マージが
+なぜ読み物として破綻するのかは [046radio/SETUP.md](046radio/SETUP.md#クロストーク除去は2層ある)
+を参照。
 
 ## インストール
 
