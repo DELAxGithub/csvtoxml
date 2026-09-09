@@ -89,9 +89,32 @@ python3 ~/src/claude-config/skills/mai-transcribe/scripts/dialogue_cleanup.py \
 直せないもの: **1行の中に混入したクロストーク**（`...松田さんとは違うか。違います。`
 の「違います。」が相手の発話）。これは行の並べ替えでは直らないので層1の閾値を上げる。
 
-## 編集台本 Doc の生成
+## クリーンアップ版を Sheets へ投入する（正規ルート）
 
-`--edit-script` で5列TSVを出し、Google Docs の実テーブルに変換する。
+**後段が Sheets → DaVinci なので、投入するのは `_clean.csv`（荒編5列）であって
+`_編集台本.tsv` ではない。** `csv_to_resolve_timeline.py` は `色選択` 列の連続同色で
+ブロックを組むので、`色選択` を持たない編集台本形式では後段が成立しない。
+
+```bash
+cd ~/src/70_プラッと/platto-automation
+./venv/bin/python3 tools/push_csv_to_sheet.py \
+  --csv '.../046edit/046_whisper_merged_clean.csv' --tab '046_whisper_clean'
+```
+
+`_clean.csv` は元の `_whisper_merged.csv` と同じ5列ヘッダなので、`push_csv_to_sheet.py`
+のヘッダ検査をそのまま通る。元タブ（`046_whisper_merged`）は残したまま別タブになる。
+
+### 投入前の検査
+
+- ヘッダ完全一致 / イン点昇順 / イン点 < アウト点 / 空欄0 / 話者が当該回の2名のみ
+- `色選択` が話者ごとに保持されている（マージは同一話者内でしか起きないので色は混ざらない）
+
+## 編集台本 Doc の生成（現状は使っていない）
+
+`scripts/edit_script_to_doc.py` で5列TSVを Google Docs の実テーブルに変換できる。
+EP039/EP044 はこのルートだったが、**2026-09-09 に「Docsまで行かずSheetsで足りる」と
+判断されたため通常運用では使わない**（Sheets→DaVinci の経路があるため）。
+Doc 側の表を扱う必要が出たときのために残してある。
 
 ```bash
 python3 ~/src/claude-config/skills/mai-transcribe/scripts/dialogue_cleanup.py \
@@ -117,12 +140,16 @@ python3 ../scripts/edit_script_to_doc.py \
 
 ### 2026-09-09 実行結果
 
-| 回 | merged | クリーンアップ後 | Doc |
+| 回 | merged | クリーンアップ後 | Sheets タブ |
 |---|---|---|---|
-| 045 | 629行 | 328行 | `プラっと#45_編集台本_v1` (`1EwyJ1UFq7i-yQNk-xa2aRwM5wCZ97JGPaaqbDGplqwY`) |
-| 046 | 614行 | 361行 | `プラっと#46_編集台本_v1` (`1oUTBU0j57AK5WKeXNDUA5zBiNsvtUxY719EKF8T2UAU`) |
+| 045 | 629行 | 328行 | `045_whisper_clean` |
+| 046 | 614行 | 361行 | `046_whisper_clean` |
 
-046 の Doc は 362行×5列、ヘッダー一致、本文空セル0で readback 検証済み。
+投入先は「プラッと粗編」(`1xR3ieULVDruivI_Flq2I3FRx4ZtgknPT6bjO5PHYzbg`)。既存の
+`*_whisper_merged` タブは変更していない。ヘッダと先頭行を readback で照合済み。
+
+同日に生成した編集台本 Doc 2本は、Sheets ルートで足りると判断されたため trash 済み
+（台本フォルダに残すと `Code.js` の `syncScriptUrls()` が `script_url` に拾ってしまう）。
 
 ## 2026-09-03 実行結果
 
