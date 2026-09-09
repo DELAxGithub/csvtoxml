@@ -89,6 +89,41 @@ python3 ~/src/claude-config/skills/mai-transcribe/scripts/dialogue_cleanup.py \
 直せないもの: **1行の中に混入したクロストーク**（`...松田さんとは違うか。違います。`
 の「違います。」が相手の発話）。これは行の並べ替えでは直らないので層1の閾値を上げる。
 
+## 編集台本 Doc の生成
+
+`--edit-script` で5列TSVを出し、Google Docs の実テーブルに変換する。
+
+```bash
+python3 ~/src/claude-config/skills/mai-transcribe/scripts/dialogue_cleanup.py \
+  046_whisper_merged.csv --fps 25 --edit-script
+
+python3 ../scripts/edit_script_to_doc.py \
+  046_whisper_merged_編集台本.tsv \
+  --title 'プラっと#46_編集台本_v1' \
+  --parent 1FJWe8Jsqa6gvrrmcAcKqbOtWc3DbHXeO
+```
+
+列は `編集指示 | Speaker Name | イン点 | アウト点 | 文字起こし`。**ヘッダー文言と列順は
+飾りではない**:
+
+- `gas/EP039_apply.js` は表を「ヘッダー0列目が `編集指示`」で探す
+- `gas/script-tools/ScriptFormatter.js` の `findSpeakerCol_()` は
+  `Speaker Name` / `Speaker` / `話者` を探す
+- `gas/Code.js` の `syncScriptUrls()` はファイル名に **`編集` を含み、かつ `#<数字>` に
+  マッチする**ものだけを episodes シートの `script_url` に同期する
+
+`編集指示` 列は空で出す。KEEP/CUT/REVIEW と NA 行は人間が Doc 上で決める編集判断で、
+機械工程で埋めると判断を先取りしてしまう。
+
+### 2026-09-09 実行結果
+
+| 回 | merged | クリーンアップ後 | Doc |
+|---|---|---|---|
+| 045 | 629行 | 328行 | `プラっと#45_編集台本_v1` (`1EwyJ1UFq7i-yQNk-xa2aRwM5wCZ97JGPaaqbDGplqwY`) |
+| 046 | 614行 | 361行 | `プラっと#46_編集台本_v1` (`1oUTBU0j57AK5WKeXNDUA5zBiNsvtUxY719EKF8T2UAU`) |
+
+046 の Doc は 362行×5列、ヘッダー一致、本文空セル0で readback 検証済み。
+
 ## 2026-09-03 実行結果
 
 - VAD: 土門 292セグメント / 1,972.0秒、松田 334セグメント / 2,007.5秒
