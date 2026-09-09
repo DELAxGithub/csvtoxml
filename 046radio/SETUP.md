@@ -89,6 +89,15 @@ python3 ~/src/claude-config/skills/mai-transcribe/scripts/dialogue_cleanup.py \
 直せないもの: **1行の中に混入したクロストーク**（`...松田さんとは違うか。違います。`
 の「違います。」が相手の発話）。これは行の並べ替えでは直らないので層1の閾値を上げる。
 
+## 正規ルートは MAI（2026-09-09 決定）
+
+**投入するのは `046_MAIvad_whisper_merged_clean.csv`。** mlx-whisper ルートは削除せず
+比較用に残す（Sheets タブ `046_whisper_clean` として併置）。根拠・トレードオフ・見直し条件は
+[ADR 0002](../../docs/adr/0002-asr-route-mai-over-local-whisper.md)。
+
+このSETUP.mdの以降の手順は mlx-whisper ルートの実行記録だが、VAD区間・TC基準・
+クリーンアップ・Sheets投入の考え方は両ルート共通。
+
 ## クリーンアップ版を Sheets へ投入する（正規ルート）
 
 **後段が Sheets → DaVinci なので、投入するのは `_clean.csv`（荒編5列）であって
@@ -140,10 +149,16 @@ python3 ../scripts/edit_script_to_doc.py \
 
 ### 2026-09-09 実行結果
 
-| 回 | merged | クリーンアップ後 | Sheets タブ |
-|---|---|---|---|
-| 045 | 629行 | 328行 | `045_whisper_clean` |
-| 046 | 614行 | 361行 | `046_whisper_clean` |
+| 回 | ルート | merged | クリーンアップ後 | Sheets タブ |
+|---|---|---|---|---|
+| 045 | **MAI（正規）** | 475行 | **343行** | `045_MAI_clean` |
+| 046 | **MAI（正規）** | 570行 | **413行** | `046_MAI_clean` |
+| 045 | whisper（比較用） | 629行 | 328行 | `045_whisper_clean` |
+| 046 | whisper（比較用） | 614行 | 361行 | `046_whisper_clean` |
+
+MAI ルートはゼロ長行（イン点＝アウト点。1フレーム未満のフレーズの丸め）を045で1件・046で
+2件含んでいたため、1フレームに補正して投入した。エコー除去は MAI 側でのみ発火する
+（046=23件 / 045=6件、whisper 側は両方0件）。
 
 投入先は「プラッと粗編」(`1xR3ieULVDruivI_Flq2I3FRx4ZtgknPT6bjO5PHYzbg`)。既存の
 `*_whisper_merged` タブは変更していない。ヘッダと先頭行を readback で照合済み。

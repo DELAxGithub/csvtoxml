@@ -55,3 +55,12 @@ DaVinciタイムライン作成、内容編集、NA、BGMは今回の対象外�
 `dialogue_cleanup.py`）の役割分担と、なぜTC順ソートだけでは読み物にならないのかは
 [046radio/SETUP.md](../046radio/SETUP.md#クロストーク除去は2層ある) に書いてある。
 045と046で処理は同一。
+
+## 正規ルートは MAI（2026-09-09 決定）
+
+**投入するのは `045_MAIvad_whisper_merged_clean.csv`。** mlx-whisper ルートは削除せず
+比較用に残す（Sheets タブ `045_whisper_clean` として併置）。根拠・トレードオフ・見直し条件は
+[ADR 0002](../../docs/adr/0002-asr-route-mai-over-local-whisper.md)。
+
+このSETUP.mdの以降の手順は mlx-whisper ルートの実行記録だが、VAD区間・TC基準・
+クリーンアップ・Sheets投入の考え方は両ルート共通。
